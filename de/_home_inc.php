@@ -1,0 +1,73 @@
+<div>
+
+	<h1 class="ueberschrift1">
+		Herzlich Willkommen <!--bei-->
+	</h1>
+	<!--<h2 class="ueberschrift2">
+		image . style . etikette
+	</h2>-->
+	<hr/>
+	<img src="../images/biggi/Home.jpg" alt="Birgit Brenner" style="float:right; padding: 15px 5px 15px 15px;"/>
+	<!--<div style="clear:both;"/>-->
+	<div style="width: 430px; padding-top: 40px; padding-bottom: 50px;">
+		<br/>
+		<!--<div class="imagestyleetikette">-->
+		<div style="padding-left: 50px;">
+			<div>
+				<b>
+					image
+				</b>
+			</div>
+			<div style="margin-left: 20px;">
+				... das Bild, das wir nach au&szlig;en abgeben
+			</div>
+			<div>
+				<b>
+					style
+				</b>
+			</div>
+			<div style="padding-left: 20px;">
+				... wodurch wir zum Individuum werden
+			</div>
+			<div>
+				<b>
+					etikette
+				</b>
+			</div>
+			<div style="margin-left: 20px;">
+				... die Sprache des sicheren Auftretens
+			</div>
+		</div>
+		<br/>
+		<br/>
+		<br/>
+		<div style="clear: both;">
+			<br />
+			F&uuml;hren Sie sich und Ihr Unternehmen zum Erfolg durch souver&auml;nes und sicheres Auftreten!
+            <br/>
+            <br/>
+            Wir unterst&uuml;tzen Sie mit unserer individuellen Beratung nicht nur mit dem ersten Eindruck zu begeistern
+            sondern durch ein souver&auml;nes Auftreten im Ganzen zu &uuml;berzeugen!
+            <br/>
+            <br/>
+            Wir bieten kompetente Beratung f&uuml;r Firmen, Institutionen und Privatpersonen.
+            Gruppen- und Einzelcoaching.
+            <br/>
+            <br/>
+            Rufen Sie uns an oder schicken Sie uns eine Mail.
+            <br/>
+            Wir freuen uns auf Sie!
+			<br/>
+			<br/>
+
+			Ihre
+			<br/>
+			<br/>
+			Birgit Brenner
+			<br/>
+			<br/>
+			<br/>
+		</div>
+	</div>
+
+</div>

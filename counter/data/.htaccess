@@ -1,0 +1,3 @@
+<Limit GET POST PUT DELETE>
+allow from all
+</Limit>
