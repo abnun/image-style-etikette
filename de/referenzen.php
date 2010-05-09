@@ -48,6 +48,9 @@
             <br/>
             <ul class="referenzen">
                 <li>
+					Agentur f&uuml;r Arbeit, Heilbronn
+                </li>
+				<li>
 					Agentur f&uuml;r Arbeit, Ludwigsburg
                 </li>
 				<li>
@@ -77,9 +80,9 @@
                 <li>
                     Deutscher Speditions- und Logistikverband
                 </li>
-				<!--<li>
+				<li>
 					Elly-Heuss-Knapp-Gymnasium, Heilbronn
-				</li>-->
+				</li>
                 <li>
                     Ernst &amp; Young AG
                 </li>
@@ -89,6 +92,9 @@
                 <li>
                     Estlander &amp; R&ouml;nnlund, Zug Schweiz
                 </li>
+				<li>
+					Evangelische Fachschule für Sozialp&auml;dagogik, Schw&auml;bisch Hall
+				</li>
                 <li>
                     Foreign Affairs Office of Shenzhen, China
                 </li>
@@ -154,6 +160,12 @@
                 </li>
 				<li>
 					Wirtschaftsjunioren Heilbronn-Franken
+				</li>
+				<li>
+					Zahnarztpraxis Eva Stier, Heilbronn
+				</li>
+				<li>
+					ZAV Bonn
 				</li>
 				<li>
 					Zeyer Trans Spedition, Heilbronn
