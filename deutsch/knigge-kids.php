@@ -31,7 +31,7 @@
     ?>
 
 </div>
-    
+
 <div id="content-wrapper">
 
     <div id="content">
@@ -60,7 +60,7 @@
 								</li>
 								<li>
 									Die Messerspitze schmeckt besonders gut
-								</li>            
+								</li>
 								<li>
 									"Rummh&auml;ngen" ist bequemer als gerade sitzen
 								</li>
@@ -103,7 +103,7 @@
 						</div>
                     </td>
                     <td valign="top">
-                        <img src="../images/knigge-kids/knigge-fuer-kids-bild-1.jpg" alt="Birgit Brenner | Knigge fuer Kids | Kinderknigge" style="margin: 15px 10px 0px 10px;" />
+                        <img src="../images/knigge-kids/knigge-fuer-kids-bild-1.jpg" alt="Birgit Brenner | Knigge fuer Kids | Kinder-Knigge" style="margin: 15px 10px 0px 10px;" />
                         <br />
                         <img src="../images/knigge-kids/knigge-fuer-kids-bild-2.jpg" alt="Birgit Brenner | Knigge fuer Kids | Kinder-Knigge" style="margin: 0px 10px;" />
                     </td>
@@ -117,6 +117,5 @@
 
 </div>
 
-<?php include("verschiedenes/_analytics.php"); ?>
 </body>
 </html>
