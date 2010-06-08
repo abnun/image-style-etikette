@@ -19,7 +19,7 @@
 
                     <ul>
                         <li>
-                            <a href="../business-consulting.php"
+                            <a href="/deutsch/business-consulting.php"
                                class="<?php $link == 'business-consulting.php' ? print 'active' : print ''; ?>"
                                title="Birgit Brenner | Business Consulting">Business Consulting</a>
                         </li>
@@ -33,7 +33,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="../personal-consulting.php" class="<?php $link == 'personal-consulting.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Personal Consulting">Personal Consulting</a>
+                            <a href="/deutsch/personal-consulting.php" class="<?php $link == 'personal-consulting.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Personal Consulting">Personal Consulting</a>
                         </li>
                     </ul>
 
@@ -45,7 +45,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="../knigge-kids.php" class="<?php $link == 'knigge-kids.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Knigge f&uuml;r Kids / Kinder-Knigge">Knigge f&uuml;r Kids</a>
+                            <a href="/deutsch/knigge-kids.php" class="<?php $link == 'knigge-kids.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Knigge f&uuml;r Kids / Kinder-Knigge">Knigge f&uuml;r Kids</a>
                         </li>
                     </ul>
 
@@ -57,7 +57,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="../termine.php" class="<?php $link == 'termine.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Offene Seminare / Seminartermine">Offene Seminare</a>
+                            <a href="/deutsch/termine.php" class="<?php $link == 'termine.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Offene Seminare / Seminartermine">Offene Seminare</a>
                         </li>
                     </ul>
 
@@ -70,7 +70,7 @@
 
                     <ul>
                         <li>
-                            <a href="../presse-knigge-tipps.php" class="<?php $link == 'presse.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Presseberichte | Knigge-Tipps">Presse</a>
+                            <a href="/deutsch/presse-knigge-tipps.php" class="<?php $link == 'presse.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Presseberichte | Knigge-Tipps">Presse</a>
                         </li>
                     </ul>
 
@@ -94,7 +94,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="../referenzen.php" class="<?php $link == 'referenzen.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Unsere Referenzen">Referenzen</a>
+                            <a href="/deutsch/referenzen.php" class="<?php $link == 'referenzen.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Unsere Referenzen">Referenzen</a>
                         </li>
                     </ul>
 
@@ -105,7 +105,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="../empfehlungen.php" class="<?php $link == 'empfehlungen.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Empfehlungen unserer Kunden">Empfehlungen</a>
+                            <a href="/deutsch/empfehlungen.php" class="<?php $link == 'empfehlungen.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Empfehlungen unserer Kunden">Empfehlungen</a>
                         </li>
                     </ul>
 
@@ -116,7 +116,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="../downloads.php" class="<?php $link == 'downloads.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Downloads">Downloads</a>
+                            <a href="/deutsch/downloads.php" class="<?php $link == 'downloads.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Downloads">Downloads</a>
                         </li>
                     </ul>
 
@@ -126,7 +126,7 @@
 
 		<dl>
 			<dd class="last">
-				<a href="../gutschein.php" title="Gutschein" style="border: none;">
+				<a href="/deutsch/gutschein.php" title="Gutschein" style="border: none;">
 					<div style="padding: 5px 5px; margin-top: 10px; text-align: center;">
 						<b>Die Geschenkidee!</b>
 					</div>
@@ -166,8 +166,6 @@
 
         </dl>-->
 
-        <?php
-			include ("../../counter/phpunity-easycounter.php");
-        ?>
+        <?php include ("../counter/phpunity-easycounter.php"); ?>
 
     </div>

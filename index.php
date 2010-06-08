@@ -5,18 +5,18 @@
 
     <title>Birgit Brenner | Image. Style. Etikette | Startseite</title>
 
-    <?php include("deutsch/head_metatags.php"); ?>
+    <?php include("deutsch/verschiedenes/_head_metatags.php"); ?>
 
-    <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
+    <link rel="stylesheet" type="text/css" media="screen, print" href="style/style.css"/>
 
-    <meta http-equiv="refresh" content="0; URL=de/startseite.php"/>
+    <meta http-equiv="refresh" content="0; URL=deutsch/startseite.php"/>
 
 </head>
 
 <body>
-<?php include("deutsch/topnav.php"); ?>
+<?php include("deutsch/navigation/_top_navigation.php"); ?>
 
-<?php include("deutsch/header.php"); ?>
+<?php include("deutsch/seitenaufbau/_header.php"); ?>
 
 <?php include("deutsch/navigation/_sprachwechsel.php"); ?>
 
@@ -26,7 +26,7 @@
 
     <?php
         $link = basename(__FILE__);
-        include("deutsch/sidebar.php");
+        include("deutsch/navigation/_seiten_navigation.php");
     ?>
 
 </div>
@@ -35,7 +35,7 @@
 
     <div id="content">
 
-		<?php include("deutsch/home_inc.php"); ?>
+		<?php include("deutsch/_startseite-inhalt.php"); ?>
 
     </div>
 
@@ -43,11 +43,11 @@
 
 </div>
 
-<?php include("deutsch/footer.php"); ?>
+<?php include("deutsch/seitenaufbau/_footer.php"); ?>
 <div id="footer">
 
 </div>
 
-<?php include("deutsch/analytics.php"); ?>
+<?php include("deutsch/verschiedenes/_analytics.php"); ?>
 </body>
 </html>
