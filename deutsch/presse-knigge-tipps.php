@@ -3,9 +3,9 @@
 
 <head>
 
-    <title>Birgit Brenner - image . style . etikette: Knigge-Tipps</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Presseberichte | Knigge-Tipps</title>
 
-    <?php include("_head_metatags.php"); ?>
+    <?php include("verschiedenes/_head_metatags.php"); ?>
 
     <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
 
@@ -35,15 +35,13 @@
 
 </head>
 
-<?php include("_analytics.php"); ?>
-
 <body>
 
-<?php include("_topnav.php"); ?>
+<?php include("navigation/_top_navigation.php"); ?>
 
-<?php include("_header.php"); ?>
+<?php include("seitenaufbau/_header.php"); ?>
 
-<?php include("_language_switch.php"); ?>
+<?php include("navigation/_sprachwechsel.php"); ?>
 
 <div id="wrapper">
 
@@ -51,7 +49,7 @@
 
     <?php
         $link = basename(__FILE__);
-        include("_sidebar.php");
+		include("navigation/_seiten_navigation.php");
     ?>
 
 </div>
@@ -62,7 +60,7 @@
 
         <div>
             <h1 class="ueberschrift1">
-                Presse
+                Presse / Knigge-Tipps
             </h1>
             <hr/>
 
@@ -169,7 +167,7 @@
 				Klicken Sie auf das Bild, um es zu vergr&ouml;&szlig;ern!
 			</p>
 			<a href="../images/presse/hn-stimme_17_02_2009.jpg" class="highslide" onclick="return hs.expand(this, {wrapperClassName: 'highslide-no-border', dimmingOpacity: 0.75, align: 'center'})">
-				<img src="../images/presse/hn-stimme_17_02_2009_klein.jpg" alt="Artikel in der Heilbronner Stimme vom 17.02.2009" title="Klicken Sie hier, um eine vergr&ouml;&szlig;erte Ansicht des Bildes zu bekommen"/>
+				<img src="../images/presse/hn-stimme_17_02_2009_klein.jpg" alt="Birgit Brenner | Artikel in der Heilbronner Stimme vom 17.02.2009" title="Klicken Sie hier, um eine vergr&ouml;&szlig;erte Ansicht des Bildes zu bekommen"/>
 			</a>
 			<div id="closebutton" class="highslide-overlay closebutton" style="display:none;" onclick="return hs.close(this)" title="Schlie&szlig;en"></div>
 			<p>
@@ -708,9 +706,6 @@
 
 </div>
 
-<div id="footer">
-
-</div>
-
+<?php include("verschiedenes/_analytics.php"); ?>
 </body>
 </html>

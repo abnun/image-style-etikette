@@ -1,11 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
 
-    <title>Birgit Brenner - image . style . etikette: Knigge f&uuml;r Kids / Kinder-Knigge</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Knigge f&uuml;r Kids / Kinder-Knigge</title>
 
-    <?php include("_head_metatags.php"); ?>
+    <?php include("verschiedenes/_head_metatags.php"); ?>
 
     <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
 
@@ -14,15 +13,13 @@
 
 </head>
 
-<?php include("_analytics.php"); ?>
-
 <body>
 
-<?php include("_topnav.php"); ?>
+<?php include("navigation/_top_navigation.php"); ?>
 
-<?php include("_header.php"); ?>
+<?php include("seitenaufbau/_header.php"); ?>
 
-<?php include("_language_switch.php"); ?>
+<?php include("navigation/_sprachwechsel.php"); ?>
 
 <div id="wrapper">
 
@@ -30,7 +27,7 @@
 
     <?php
         $link = basename(__FILE__);
-        include("_sidebar.php");
+		include("navigation/_seiten_navigation.php");
     ?>
 
 </div>
@@ -106,9 +103,9 @@
 						</div>
                     </td>
                     <td valign="top">
-                        <img src="../images/knigge_kids/Knigge_fuer_Kids1.jpg" alt="Knigge fuer Kids" style="margin: 15px 10px 0px 10px;" />
+                        <img src="../images/knigge-kids/knigge-fuer-kids-bild-1.jpg" alt="Birgit Brenner | Knigge fuer Kids | Kinderknigge" style="margin: 15px 10px 0px 10px;" />
                         <br />
-                        <img src="../images/knigge_kids/Knigge_fuer_Kids2.jpg" alt="Knigge fuer Kids" style="margin: 0px 10px;" />
+                        <img src="../images/knigge-kids/knigge-fuer-kids-bild-2.jpg" alt="Birgit Brenner | Knigge fuer Kids | Kinder-Knigge" style="margin: 0px 10px;" />
                     </td>
                 </tr>
             </table>
@@ -120,9 +117,6 @@
 
 </div>
 
-<div id="footer">
-
-</div>
-
+<?php include("verschiedenes/_analytics.php"); ?>
 </body>
 </html>

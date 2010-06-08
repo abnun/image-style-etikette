@@ -3,9 +3,9 @@
 
 <head>
 
-    <title>Birgit Brenner - image . style . etikette: Profil</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Profil</title>
 
-    <?php include("_head_metatags.php"); ?>
+    <?php include("verschiedenes/_head_metatags.php"); ?>
 
     <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
 
@@ -14,15 +14,13 @@
 
 </head>
 
-<?php include("_analytics.php"); ?>
-
 <body>
 
-<?php include("_topnav.php"); ?>
+<?php include("navigation/_top_navigation.php"); ?>
 
-<?php include("_header.php"); ?>
+<?php include("seitenaufbau/_header.php"); ?>
 
-<?php include("_language_switch.php"); ?>
+<?php include("navigation/_sprachwechsel.php"); ?>
 
 <div id="wrapper">
 
@@ -30,7 +28,7 @@
 
     <?php
         $link = basename(__FILE__);
-        include("_sidebar.php");
+		include("navigation/_seiten_navigation.php");
     ?>
 
 </div>
@@ -94,7 +92,7 @@
 						</div>
                     </td>
                     <td valign="top">
-                        <img src="../images/biggi/Profil.jpg" alt="Birgit Brenner" style="float:right; padding: 15px 5px 15px 15px;" />
+                        <img src="../images/birgit-brenner/birgit-brenner-bild-profil.jpg" alt="Birgit Brenner | Image. Style. Etikette" style="float:right; padding: 15px 5px 15px 15px;" />
                     </td>
                 </tr>
             </table>
@@ -111,14 +109,6 @@
 
 </div>
 
-<div id="footer">
-    <div>
-        <!--Birgit Brenner | <a href="mailto:B.Brenner@gmx.net">B.Brenner@gmx.net</a>--><!-- | <a
-        href="http://validator.w3.org/check?uri=referer">XHTML 1.1</a> | <a
-        href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="mailto:markus.mu@web.de">design by
-    Markus Mueller</a>-->
-    </div>
-</div>
-
+<?php include("verschiedenes/_analytics.php"); ?>
 </body>
 </html>

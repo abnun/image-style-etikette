@@ -3,9 +3,9 @@
 
 <head>
 
-    <title>Birgit Brenner - image . style . etikette: Personal Consulting</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Personal Consulting</title>
 
-    <?php include("_head_metatags.php"); ?>
+    <?php include("verschiedenes/_head_metatags.php"); ?>
 
     <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
 
@@ -75,14 +75,12 @@
 
 </head>
 
-<?php include("_analytics.php"); ?>
-
 <body>
-<?php include("_topnav.php"); ?>
+<?php include("navigation/_top_navigation.php"); ?>
 
-<?php include("_header.php"); ?>
+<?php include("seitenaufbau/_header.php"); ?>
 
-<?php include("_language_switch.php"); ?>
+<?php include("navigation/_sprachwechsel.php"); ?>
 
 <div id="wrapper">
 
@@ -90,7 +88,7 @@
 
     <?php
         $link = basename(__FILE__);
-        include("_sidebar.php");
+		include("navigation/_seiten_navigation.php");
     ?>
 
 </div>
@@ -167,7 +165,7 @@
                 		</td>
                 		<td valign="top">
 
-                			<img src="../images/personal_consulting/Schuhe.jpg" alt="Personal Shopping" style="margin: 0px 10px;" />
+                			<img src="../images/personal-consulting/personal-consulting-bild-schuhe.jpg" alt="Birgit Brenner | Personal Shopping" style="margin: 0px 10px;" />
 
                 		</td>
                 	</tr>
@@ -254,7 +252,7 @@
                 		</td>
                 		<td valign="top">
 
-        					<img src="../images/personal_consulting/Garderobencheck_1.jpg" alt="Garderoben Check" style="margin: 0px 10px;" />
+        					<img src="../images/personal-consulting/personal-consulting-bild-garderobencheck.jpg" alt="Garderoben Check" style="margin: 0px 10px;" />
         					<!--<br />
         					<img src="../images/personal_consulting/Garderobencheck_2.jpg" alt="Garderoben Check" style="margin: 0px 10px;" />-->
 
@@ -270,10 +268,6 @@
 
 </div>
 
-<?php include("_footer.php"); ?>
-<div id="footer">
-
-</div>
-
+<?php include("verschiedenes/_analytics.php"); ?>
 </body>
 </html>

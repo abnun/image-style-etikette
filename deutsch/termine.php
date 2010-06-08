@@ -3,9 +3,9 @@
 
 <head>
 
-    <title>Birgit Brenner - image . style . etikette: Seminartermine</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Seminartermine</title>
 
-    <?php include("_head_metatags.php"); ?>
+    <?php include("verschiedenes/_head_metatags.php"); ?>
 
     <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
 
@@ -14,14 +14,12 @@
 
 </head>
 
-<?php include("_analytics.php"); ?>
-
 <body>
-<?php include("_topnav.php"); ?>
+<?php include("navigation/_top_navigation.php"); ?>
 
-<?php include("_header.php"); ?>
+<?php include("seitenaufbau/_header.php"); ?>
 
-<?php include("_language_switch.php"); ?>
+<?php include("navigation/_sprachwechsel.php"); ?>
 
 <div id="wrapper">
 
@@ -29,7 +27,7 @@
 
     <?php
         $link = basename(__FILE__);
-        include("_sidebar.php");
+		include("navigation/_seiten_navigation.php");
     ?>
 
 </div>
@@ -210,7 +208,7 @@
 
 							if($now < $termin_datum_check)
 							{
-								include("_termin.php");
+								include("verschiedenes/_termin.php");
 							}
 						}
 					?>
@@ -240,10 +238,6 @@
 
 </div>
 
-<?php include("_footer.php"); ?>
-<div id="footer">
-
-</div>
-
+<?php include("verschiedenes/_analytics.php"); ?>
 </body>
 </html>

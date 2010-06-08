@@ -1,5 +1,5 @@
 <?php
-    $linkListe = array('business_consulting.php', 'personal_consulting.php', 'termine.php', 'partner.php', 'referenzen.php', 'empfehlungen.php', 'gutschein.php');
+    $linkListe = array('business-consulting.php', 'personal-consulting.php', 'termine.php', 'partner.php', 'referenzen.php', 'empfehlungen.php', 'gutschein.php');
     $quotes = array('Nur wer sich &auml;ndert, bleibt sich treu.<div style="font-size:smaller;">(Wolf Biermann)</div>',
             'Jeder Mensch macht Fehler. Das Kunstst&uuml;ck liegt darin, sie dann zu machen, wenn keiner zuschaut.<div style="font-size:smaller;">(Peter Ustinov)</div>',
             'Ein L&auml;cheln ist die k&uuml;rzeste Entfernung zwischen zwei Menschen.<div style="font-size:smaller;">(Victor Borge)</div>',
@@ -19,9 +19,9 @@
 
                     <ul>
                         <li>
-                            <a href="business_consulting.php"
-                               class="<?php $link == 'business_consulting.php' ? print 'active' : print ''; ?>"
-                               title="Business Consulting">Business Consulting</a>
+                            <a href="../business-consulting.php"
+                               class="<?php $link == 'business-consulting.php' ? print 'active' : print ''; ?>"
+                               title="Birgit Brenner | Business Consulting">Business Consulting</a>
                         </li>
                     </ul>
 
@@ -33,7 +33,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="personal_consulting.php" class="<?php $link == 'personal_consulting.php' ? print 'active' : print ''; ?>" title="Personal Consulting">Personal Consulting</a>
+                            <a href="../personal-consulting.php" class="<?php $link == 'personal-consulting.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Personal Consulting">Personal Consulting</a>
                         </li>
                     </ul>
 
@@ -45,7 +45,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="knigge_kids.php" class="<?php $link == 'knigge_kids.php' ? print 'active' : print ''; ?>" title="Knigge f&uuml;r Kids">Knigge f&uuml;r Kids</a>
+                            <a href="../knigge-kids.php" class="<?php $link == 'knigge-kids.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Knigge f&uuml;r Kids / Kinder-Knigge">Knigge f&uuml;r Kids</a>
                         </li>
                     </ul>
 
@@ -57,7 +57,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="termine.php" class="<?php $link == 'termine.php' ? print 'active' : print ''; ?>" title="Offene Seminare">Offene Seminare</a>
+                            <a href="../termine.php" class="<?php $link == 'termine.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Offene Seminare / Seminartermine">Offene Seminare</a>
                         </li>
                     </ul>
 
@@ -70,7 +70,7 @@
 
                     <ul>
                         <li>
-                            <a href="presse.php" class="<?php $link == 'presse.php' ? print 'active' : print ''; ?>" title="Presse">Presse</a>
+                            <a href="../presse-knigge-tipps.php" class="<?php $link == 'presse.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Presseberichte | Knigge-Tipps">Presse</a>
                         </li>
                     </ul>
 
@@ -94,7 +94,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="referenzen.php" class="<?php $link == 'referenzen.php' ? print 'active' : print ''; ?>" title="Referenzen">Referenzen</a>
+                            <a href="../referenzen.php" class="<?php $link == 'referenzen.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Unsere Referenzen">Referenzen</a>
                         </li>
                     </ul>
 
@@ -105,7 +105,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="empfehlungen.php" class="<?php $link == 'empfehlungen.php' ? print 'active' : print ''; ?>" title="Empfehlungen">Empfehlungen</a>
+                            <a href="../empfehlungen.php" class="<?php $link == 'empfehlungen.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Empfehlungen unserer Kunden">Empfehlungen</a>
                         </li>
                     </ul>
 
@@ -116,7 +116,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="downloads.php" class="<?php $link == 'downloads.php' ? print 'active' : print ''; ?>" title="Downloads">Downloads</a>
+                            <a href="../downloads.php" class="<?php $link == 'downloads.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Downloads">Downloads</a>
                         </li>
                     </ul>
 
@@ -126,11 +126,11 @@
 
 		<dl>
 			<dd class="last">
-				<a href="gutschein.php" title="Gutschein" style="border: none;">
+				<a href="../gutschein.php" title="Gutschein" style="border: none;">
 					<div style="padding: 5px 5px; margin-top: 10px; text-align: center;">
 						<b>Die Geschenkidee!</b>
 					</div>
-					<img src="../images/gutschein/gutschein.gif" alt="Gutschein" border="0" />
+					<img src="../../images/gutschein/birgit-brenner-knigge-gutschein.gif" title="Birgit Brenner Knigge Training Gutscheinbestellung" alt="Birgit Brenner Knigge Training Gutscheinbestellung" border="0" />
 				</a>
 			</dd>
 		</dl>
@@ -167,7 +167,7 @@
         </dl>-->
 
         <?php
-            include ("../counter/phpunity-easycounter.php");
+			include ("../../counter/phpunity-easycounter.php");
         ?>
 
     </div>

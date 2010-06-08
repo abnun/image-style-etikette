@@ -3,9 +3,9 @@
 
 <head>
 
-    <title>Birgit Brenner - image . style . etikette: Business Consulting</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Business Consulting</title>
 
-    <?php include("_head_metatags.php"); ?>
+    <?php include("verschiedenes/_head_metatags.php"); ?>
 
     <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
 
@@ -75,14 +75,12 @@
 
 </head>
 
-<?php include("_analytics.php"); ?>
-
 <body>
-<?php include("_topnav.php"); ?>
+<?php include("navigation/_top_navigation.php"); ?>
 
-<?php include("_header.php"); ?>
+<?php include("seitenaufbau/_header.php"); ?>
 
-<?php include("_language_switch.php"); ?>
+<?php include("navigation/_sprachwechsel.php"); ?>
 
 <div id="wrapper">
 
@@ -90,7 +88,7 @@
 
     <?php
         $link = basename(__FILE__);
-        include("_sidebar.php");
+		include("navigation/_seiten_navigation.php");
     ?>
 
 </div>
@@ -197,11 +195,11 @@
 
                         </td>
                         <td valign="top">
-                            <img src="../images/business_consulting/Business_Etikette_1.jpg" alt="Business Etikette" style="margin: 0px 10px;" />
+                            <img src="../images/business-consulting/business-consulting-etikette-bild-1.jpg" alt="Birgit Brenner | Business Consulting" style="margin: 0px 10px;" />
                             <br />
-                            <img src="../images/business_consulting/Business_Etikette_2.jpg" alt="Business Etikette" style="margin: 0px 10px;" />
+                            <img src="../images/business-consulting/business-consulting-etikette-bild-2.jpg" alt="Birgit Brenner | Business Consulting" style="margin: 0px 10px;" />
                             <br />
-                            <img src="../images/business_consulting/Business_Etikette_3.jpg" alt="Business Etikette" style="margin: 0px 10px;" />
+                            <img src="../images/business-consulting/business-consulting-etikette-bild-3.jpg" alt="Birgit Brenner | Business Consulting" style="margin: 0px 10px;" />
                             <!--<img src="../images/Gedeck3.jpg" alt=""/>-->
                         </td>
                     </tr>
@@ -282,7 +280,7 @@
 
                         </td>
                         <td valign="top">
-                            <img src="../images/business_consulting/Interkulturelle_Chinesin.jpg" alt="Interkulturelle Kommunikation" style="margin: 0px 10px;" />
+                            <img src="../images/business-consulting/business-consulting-interkulturelle-kommunikation.jpg" alt="Birgit Brenner | Business Consulting | Interkulturelle Kommunikation" style="margin: 0px 10px;" />
                         </td>
                     </tr>
                 </table>
@@ -327,7 +325,6 @@
 
 </div>
 
-<?php include("_footer.php"); ?>
-
+<?php include("verschiedenes/_analytics.php"); ?>
 </body>
 </html>
