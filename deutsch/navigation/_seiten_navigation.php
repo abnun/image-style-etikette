@@ -166,5 +166,6 @@
 
         </dl>-->
 
+        <?php include ("../counter/phpunity-easycounter.php"); ?>
 
     </div>
