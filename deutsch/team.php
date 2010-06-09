@@ -7,7 +7,7 @@
 
     <?php include("verschiedenes/_head_metatags.php"); ?>
 
-    <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
+    <link rel="stylesheet" type="text/css" media="screen, print" href="/style/style.css"/>
 
     <script src="../javascript/prototype.js" type="text/javascript"></script>
     <script src="../javascript/effects.js" type="text/javascript"></script>
@@ -44,6 +44,10 @@
             </h1>
             <hr/>
             <table cellpadding="0" cellspacing="0" border="0">
+				<colgroup>
+					<col width="*">
+					<col width="100">
+				</colgroup>
                 <tr>
                     <td>
                         <div>

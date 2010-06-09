@@ -7,7 +7,7 @@
 
     <?php include("verschiedenes/_head_metatags.php"); ?>
 
-    <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
+    <link rel="stylesheet" type="text/css" media="screen, print" href="/style/style.css"/>
 
 	<script type="text/javascript" src="../javascript/highslide/highslide.js"></script>
 	<link rel="stylesheet" type="text/css" href="../javascript/highslide/highslide.css"/>

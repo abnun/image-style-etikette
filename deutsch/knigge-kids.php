@@ -1,3 +1,4 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
@@ -6,7 +7,7 @@
 
     <?php include("verschiedenes/_head_metatags.php"); ?>
 
-    <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
+    <link rel="stylesheet" type="text/css" media="screen, print" href="/style/style.css"/>
 
     <script src="../javascript/prototype.js" type="text/javascript"></script>
     <script src="../javascript/effects.js" type="text/javascript"></script>
@@ -43,6 +44,11 @@
             <hr/>
 
 			<table cellpadding="0" cellspacing="0" border="0">
+				<colgroup>
+					<col width="*">
+					<col width="100">
+				</colgroup>
+				<tbody>
                 <tr>
                     <td>
                         <div>
@@ -103,11 +109,14 @@
 						</div>
                     </td>
                     <td valign="top">
-                        <img src="../images/knigge-kids/knigge-fuer-kids-bild-1.jpg" alt="Birgit Brenner | Knigge fuer Kids | Kinder-Knigge" style="margin: 15px 10px 0px 10px;" />
-                        <br />
-                        <img src="../images/knigge-kids/knigge-fuer-kids-bild-2.jpg" alt="Birgit Brenner | Knigge fuer Kids | Kinder-Knigge" style="margin: 0px 10px;" />
+						<div>
+							<img src="../images/knigge-kids/knigge-fuer-kids-bild-1.jpg" alt="Birgit Brenner | Knigge fuer Kids | Kinder-Knigge" style="margin: 0px 10px;" />
+							<br />
+							<img src="../images/knigge-kids/knigge-fuer-kids-bild-2.jpg" alt="Birgit Brenner | Knigge fuer Kids | Kinder-Knigge" style="margin: 0px 10px;" />
+						</div>
                     </td>
                 </tr>
+				</tbody>
             </table>
 
         </div>

@@ -82,7 +82,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="team.php" class="<?php $link == 'team.php' ? print 'active' : print ''; ?>" title="Das Team">Das Team</a>
+                            <a href="team.php" class="<?php //$link == 'team.php' ? print 'active' : print ''; ?>" title="Das Team">Das Team</a>
                         </li>
                     </ul>
 
@@ -166,6 +166,5 @@
 
         </dl>-->
 
-        <?php include ("../counter/phpunity-easycounter.php"); ?>
 
     </div>

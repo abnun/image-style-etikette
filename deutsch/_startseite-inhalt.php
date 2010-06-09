@@ -26,7 +26,7 @@
 					style
 				</b>
 			</div>
-			<div style="padding-left: 20px;">
+			<div style="margin-left: 20px;">
 				... wodurch wir zum Individuum werden
 			</div>
 			<div>
@@ -38,11 +38,7 @@
 				... die Sprache des sicheren Auftretens
 			</div>
 		</div>
-		<br/>
-		<br/>
-		<br/>
 		<div style="clear: both;">
-			<br />
 			F&uuml;hren Sie sich und Ihr Unternehmen zum Erfolg durch souver&auml;nes und sicheres Auftreten!
             <br/>
             <br/>

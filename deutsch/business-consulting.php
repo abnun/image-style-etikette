@@ -7,7 +7,7 @@
 
     <?php include("verschiedenes/_head_metatags.php"); ?>
 
-    <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
+    <link rel="stylesheet" type="text/css" media="screen, print" href="/style/style.css"/>
 
     <script src="../javascript/jquery-1.2.6.min.js" type="text/javascript"></script>
 
@@ -126,7 +126,11 @@
             <div id="unterpunkt1" style="display: none;">
 
 				<table cellpadding="0" cellspacing="0" border="0">
-                    <tr>
+					<colgroup>
+						<col width="*">
+						<col width="100">
+					</colgroup>
+					<tr>
                         <td valign="top">
 
 							<div>
@@ -195,11 +199,13 @@
 
                         </td>
                         <td valign="top">
-                            <img src="../images/business-consulting/business-consulting-etikette-bild-1.jpg" alt="Birgit Brenner | Business Consulting" style="margin: 0px 10px;" />
-                            <br />
-                            <img src="../images/business-consulting/business-consulting-etikette-bild-2.jpg" alt="Birgit Brenner | Business Consulting" style="margin: 0px 10px;" />
-                            <br />
-                            <img src="../images/business-consulting/business-consulting-etikette-bild-3.jpg" alt="Birgit Brenner | Business Consulting" style="margin: 0px 10px;" />
+							<div>
+								<img src="../images/business-consulting/business-consulting-etikette-bild-1.jpg" alt="Birgit Brenner | Business Consulting" style="margin: 0px 10px;" />
+								<br />
+								<img src="../images/business-consulting/business-consulting-etikette-bild-2.jpg" alt="Birgit Brenner | Business Consulting" style="margin: 0px 10px;" />
+								<br />
+								<img src="../images/business-consulting/business-consulting-etikette-bild-3.jpg" alt="Birgit Brenner | Business Consulting" style="margin: 0px 10px;" />
+							</div>
                             <!--<img src="../images/Gedeck3.jpg" alt=""/>-->
                         </td>
                     </tr>
@@ -223,8 +229,11 @@
                 </li>            </ul>
             <div id="unterpunkt2" style="display: none;">
 
-
-                <table cellpadding="0" cellspacing="0" border="0">
+				<table cellpadding="0" cellspacing="0" border="0">
+					<colgroup>
+						<col width="*">
+						<col width="100">
+					</colgroup>
                     <tr>
                         <td>
 
@@ -280,7 +289,9 @@
 
                         </td>
                         <td valign="top">
-                            <img src="../images/business-consulting/business-consulting-interkulturelle-kommunikation.jpg" alt="Birgit Brenner | Business Consulting | Interkulturelle Kommunikation" style="margin: 0px 10px;" />
+							<div>
+								<img src="../images/business-consulting/business-consulting-interkulturelle-kommunikation.jpg" alt="Birgit Brenner | Business Consulting | Interkulturelle Kommunikation" style="margin: 0px 10px;" />
+							</div>
                         </td>
                     </tr>
                 </table>

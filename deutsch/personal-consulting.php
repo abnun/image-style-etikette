@@ -7,7 +7,7 @@
 
     <?php include("verschiedenes/_head_metatags.php"); ?>
 
-    <link rel="stylesheet" type="text/css" media="screen, print" href="../style/style.css"/>
+    <link rel="stylesheet" type="text/css" media="screen, print" href="/style/style.css"/>
 
     <script src="../javascript/jquery-1.2.6.min.js" type="text/javascript"></script>
 
@@ -124,7 +124,11 @@
                 </li>
             </ul>
             <div id="unterpunkt1" style="display: none;">
-                <table cellspacing="0" cellpadding="0" border="0">
+				<table cellspacing="0" cellpadding="0" border="0">
+					<colgroup>
+						<col width="*">
+						<col width="100">
+					</colgroup>
                 	<tr>
                 		<td>
 
@@ -164,8 +168,9 @@
 
                 		</td>
                 		<td valign="top">
-
-                			<img src="../images/personal-consulting/personal-consulting-bild-schuhe.jpg" alt="Birgit Brenner | Personal Shopping" style="margin: 0px 10px;" />
+							<div>
+								<img src="../images/personal-consulting/personal-consulting-bild-schuhe.jpg" alt="Birgit Brenner | Personal Shopping" style="margin: 0px 10px;" />
+							</div>
 
                 		</td>
                 	</tr>
@@ -208,6 +213,10 @@
             <div id="unterpunkt2" style="display: none;">
 
                 <table cellspacing="0" cellpadding="0" border="0">
+					<colgroup>
+						<col width="*">
+						<col width="100">
+					</colgroup>
                 	<tr>
                 		<td valign="top">
 
@@ -251,10 +260,11 @@
 
                 		</td>
                 		<td valign="top">
-
-        					<img src="../images/personal-consulting/personal-consulting-bild-garderobencheck.jpg" alt="Garderoben Check" style="margin: 0px 10px;" />
-        					<!--<br />
-        					<img src="../images/personal_consulting/Garderobencheck_2.jpg" alt="Garderoben Check" style="margin: 0px 10px;" />-->
+							<div>
+        						<img src="../images/personal-consulting/personal-consulting-bild-garderobencheck.jpg" alt="Garderoben Check" style="margin: 0px 10px;" />
+							</div>
+							<!--<br />
+														<img src="../images/personal_consulting/Garderobencheck_2.jpg" alt="Garderoben Check" style="margin: 0px 10px;" />-->
 
                 		</td>
 					</tr>
