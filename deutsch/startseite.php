@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Birgit Brenner | Image. Style. Etikette | Startseite</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Knigge Trainer | Business Etikette | Interkulturelle Kommunikation | Personal Shopping | Startseite</title>
 
     <?php include("verschiedenes/_head_metatags.php"); ?>
 
