@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Birgit Brenner | Image. Style. Etikette | Gutscheinbestellung</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Gutscheinbestellung</title>
 
     <?php include("verschiedenes/_head_metatags.php"); ?>
 
@@ -43,7 +43,7 @@
             </h1>
             <br/>
             <div>
-                <img src="../images/gutschein/Gutschein.jpg" alt="Birgit Brenner | Image. Style. Etikette | Gutscheinbestellung" style="float: right; padding-left: 5px;"/>
+                <img src="../images/gutschein/Gutschein.jpg" alt="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Gutscheinbestellung" style="float: right; padding-left: 5px;"/>
                 Bitte f&uuml;llen sie nachstehendes Formular aus. Geben Sie dabei <b>den gew&uuml;nschten Betrag</b> Ihres Gutscheins an, damit wir Ihre Anfrage schnellstm&ouml;glichst bearbeiten k&ouml;nnen.
             </div>
 

@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Birgit Brenner | Image. Style. Etikette | Seminartermine</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Seminartermine</title>
 
     <?php include("verschiedenes/_head_metatags.php"); ?>
 

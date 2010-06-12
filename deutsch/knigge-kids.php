@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Birgit Brenner | Image. Style. Etikette | Knigge f&uuml;r Kids / Kinder-Knigge</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Knigge f&uuml;r Kids / Kinder-Knigge</title>
 
     <?php include("verschiedenes/_head_metatags.php"); ?>
 

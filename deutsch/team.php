@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Birgit Brenner | Image. Style. Etikette | Das Team</title>
+    <title>Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Das Team</title>
 
     <?php include("verschiedenes/_head_metatags.php"); ?>
 
@@ -59,7 +59,7 @@
 						</div>
                     </td>
                     <td valign="top">
-                        <img src="../images/team/annette_reckmann.jpg" alt="Birgit Brenner | Image. Style. Etikette | Partner" style="float:right; padding: 15px 5px 15px 100px;" />
+                        <img src="../images/team/annette_reckmann.jpg" alt="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Partner" style="float:right; padding: 15px 5px 15px 100px;" />
                     </td>
                 </tr>
                 <tr>
@@ -73,7 +73,7 @@
 						</div>
                     </td>
                     <td valign="top">
-                        <img src="../images/team/miyesser.jpg" alt="Birgit Brenner | Image. Style. Etikette | Partner" style="float:right; padding: 15px 5px 15px 100px;" />
+                        <img src="../images/team/miyesser.jpg" alt="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Partner" style="float:right; padding: 15px 5px 15px 100px;" />
                     </td>
                 </tr>
             </table>
