@@ -706,6 +706,8 @@
 
 </div>
 
+<?php include("seitenaufbau/_footer.php"); ?>
+
 <?php include("verschiedenes/_analytics.php"); ?>
 </body>
 </html>
