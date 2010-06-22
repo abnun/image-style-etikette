@@ -21,7 +21,7 @@
                         <li>
                             <a href="/deutsch/business-consulting.php"
                                class="<?php $link == 'business-consulting.php' ? print 'active' : print ''; ?>"
-                               title="Birgit Brenner | Business Consulting">Business Consulting</a>
+                               title="Birgit Brenner | Business Etikette | Business Consulting | Interkulturelle Kommunikation">Business Consulting</a>
                         </li>
                     </ul>
 
@@ -33,7 +33,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="/deutsch/personal-consulting.php" class="<?php $link == 'personal-consulting.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Personal Consulting">Personal Consulting</a>
+                            <a href="/deutsch/personal-consulting.php" class="<?php $link == 'personal-consulting.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Personal Consulting | Personal Shopping | Garderoben Check">Personal Consulting</a>
                         </li>
                     </ul>
 
@@ -45,7 +45,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="/deutsch/knigge-kids.php" class="<?php $link == 'knigge-kids.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Knigge f&uuml;r Kids / Kinder-Knigge">Knigge f&uuml;r Kids</a>
+                            <a href="/deutsch/knigge-kids.php" class="<?php $link == 'knigge-kids.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Knigge f&uuml;r Kids | Kinder-Knigge | Knigge f&uuml;r Jugendliche">Knigge f&uuml;r Kids</a>
                         </li>
                     </ul>
 
@@ -57,7 +57,7 @@
                 <div>
                     <ul>
                         <li>
-                            <a href="/deutsch/termine.php" class="<?php $link == 'termine.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Offene Seminare / Seminartermine">Offene Seminare</a>
+                            <a href="/deutsch/termine.php" class="<?php $link == 'termine.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Offene Seminare | Seminartermine">Offene Seminare</a>
                         </li>
                     </ul>
 
@@ -70,7 +70,7 @@
 
                     <ul>
                         <li>
-                            <a href="/deutsch/presse-knigge-tipps.php" class="<?php $link == 'presse.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Presseberichte | Knigge-Tipps">Presse</a>
+                            <a href="/deutsch/presse-knigge-tipps.php" class="<?php $link == 'presse-knigge-tipps.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Presseberichte | Knigge-Tipps">Presse</a>
                         </li>
                     </ul>
 
