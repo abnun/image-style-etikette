@@ -128,9 +128,9 @@
 			<dd class="last">
 				<a href="/deutsch/gutschein.php" title="Gutschein" style="border: none;">
 					<div style="padding: 5px 5px; margin-top: 10px; text-align: center;">
-						<b>Die Geschenkidee!</b>
+						<b>Die Geschenkidee zu Weihnachten!</b>
 					</div>
-					<img src="../../images/gutschein/birgit-brenner-knigge-gutschein.gif" title="Birgit Brenner Knigge Training Gutscheinbestellung" alt="Birgit Brenner Knigge Training Gutscheinbestellung" border="0" />
+					<img src="../../images/gutschein/gutschein_xmas.gif" alt="Gutschein" border="0" style="position: relative; top: -10px;" />
 				</a>
 			</dd>
 		</dl>
