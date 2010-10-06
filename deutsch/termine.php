@@ -116,7 +116,7 @@
                 Seminarort: Ratskeller Heilbronn
                 <br/>
                 <b>
-                    Preis: EUR 179.-
+                    Preis: EUR 198.-
                 </b>
                 <br/>
                 <br/>
@@ -190,7 +190,7 @@
 										array('08.05.2010', '"Grande"', 'Zum Alten Rentamt Schwaigern'),
 										array('17.06.2010', '"Petite"', 'TS Brenner Heilbronn'),
 										array('19.06.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
-										array('25.09.2010', '"Grande"', 'Ratskeller Heilbronn'),
+										array('25.09.2010', '"Exclusive"', 'Ratskeller Heilbronn'),
 										array('21.10.2010', '"Petite"', 'TS Brenner Heilbronn'),
 										array('23.10.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
 										array('25.11.2010', '"Petite"', 'TS Brenner Heilbronn'),
