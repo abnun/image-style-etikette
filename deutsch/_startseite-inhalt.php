@@ -1,7 +1,7 @@
 <div>
 
 	<h1 class="ueberschrift1">
-		Herzlich Willkommen <!--bei-->
+		<!--Haben Sie schon Ihre Weihnachtsfeier geplant? -->Herzlich Willkommen <!--bei-->
 	</h1>
 	<!--<h2 class="ueberschrift2">
 		image . style . etikette
@@ -39,13 +39,13 @@
 			</div>
 		</div>
 		<div style="clear: both;">
-			Sie planen Ihre Weihnachtsfeier und m&ouml;chten etwas Besonderes?
+			<!--Sie planen Ihre Weihnachtsfeier und m&ouml;chten etwas Besonderes?
 			<br />
 			Wie w&auml;re es mit einem interessanten und humorvollen Beitrag zum Thema "Benimm im Business"?
 			<br />
 			Wir stellen Ihnen gerne ein Programm ganz nach Ihren Anforderungen zusammen.
 			<br />
-			<br />
+			<br />-->
 			F&uuml;hren Sie sich und Ihr Unternehmen zum Erfolg durch souver&auml;nes und sicheres Auftreten!
             <br/>
             <br/>

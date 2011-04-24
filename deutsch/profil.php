@@ -86,6 +86,12 @@
 							Vorstandsmitglied der Deutschen Knigge Gesellschaft.-->
 							<br/>
 							<br/>
+							IHK-Zertifizierte Trainerin f&uuml;r Business Etikette.
+							<br/>
+							<br/>
+							Vorstandsmitglied der Deutschen Knigge Gesellschaft.
+							<br/>
+							<br/>
 							Image- und Stilberaterin.
 							<br/>
 							<br/>

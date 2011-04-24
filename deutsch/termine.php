@@ -81,7 +81,7 @@
                 Seminarort: abh&auml;ngig vom Termin
                 <br/>
                 <b>
-                    Preis: EUR 149.-
+                    Preis: EUR 179.-
                 </b>
 <!--
 				<br />
@@ -102,7 +102,7 @@
 					Preis: EUR 19.-
 				</b>
 -->
-                <br/>
+                <!--<br/>
                 <br/>
 
                 <b>
@@ -117,7 +117,7 @@
                 <br/>
                 <b>
                     Preis: EUR 198.-
-                </b>
+                </b>-->
                 <br/>
                 <br/>
 
@@ -180,7 +180,7 @@
                 <table cellpadding="3" cellspacing="0">
                     <?php
 						$termine = array(
-										array('21.01.2010', '"Petite"', 'TS Brenner Heilbronn'),
+										/*array('21.01.2010', '"Petite"', 'TS Brenner Heilbronn'),
 										array('23.01.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
 										array('11.03.2010', '"Test"', 'Hohly L&ouml;wenstein<span style="margin-left: 10px; color: gray;">(Nur noch wenige Pl&auml;tze frei!)</span>'),
 										array('18.03.2010', '"Petite"', 'TS Brenner Heilbronn'),
@@ -194,7 +194,14 @@
 										array('21.10.2010', '"Petite"', 'TS Brenner Heilbronn'),
 										array('23.10.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
 										array('25.11.2010', '"Petite"', 'TS Brenner Heilbronn'),
-										array('27.11.2010', '"Grande"', 'Ratskeller Heilbronn')
+										array('27.11.2010', '"Grande"', 'Ratskeller Heilbronn'),*/
+										array('17.02.2011', '"Petite"', 'TS Brenner Heilbronn'),
+										array('26.02.2011', '"Grande"', 'Ratskeller Heilbronn'),
+										array('19.03.2011', '"Grande"', 'Hohly L&ouml;wenstein'),
+										array('24.03.2011', '"Petite"', 'TS Brenner Heilbronn'),
+										array('16.04.2011', '"Grande"', 'Ratskeller Heilbronn'),
+										array('12.05.2011', '"Petite"', 'TS Brenner Heilbronn'),
+										array('04.06.2011', '"Grande"', 'Ratskeller Heilbronn')
 										);
 
 						for($count = 0; $count <= count($termine); $count++)
@@ -226,8 +233,8 @@
 
                 </div>-->
 
-                <!--<br />
-                <i><b>Weitere Termine f&uuml;r 2009 folgen in K&uuml;rze!</b></i>-->
+                <br />
+                <!--<i><b>Weitere Termine f&uuml;r 2009 folgen in K&uuml;rze!</b></i>-->
 
             </div>
 

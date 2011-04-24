@@ -128,10 +128,18 @@
 			<dd class="last">
 				<a href="/deutsch/gutschein.php" title="Gutschein" style="border: none;">
 					<div style="padding: 5px 5px; margin-top: 10px; text-align: center;">
-						<b>Die Geschenkidee zu Weihnachten!</b>
+						<b>Die Geschenkidee<!-- zu Weihnachten-->!</b>
 					</div>
-					<img src="../../images/gutschein/gutschein_xmas.gif" alt="Gutschein" border="0" style="position: relative; top: -10px;" />
+					<img src="../../images/gutschein/birgit-brenner-knigge-gutschein.gif" alt="Gutschein" border="0" style="position: relative;" />
 				</a>
+			</dd>
+		</dl>
+
+		<dl>
+			<dd class="last">
+				<div style="padding: 5px 5px; margin-top: 10px; text-align: center;">
+					<img src="../../images/ihk/ihk-logo.gif" alt="IHK Logo" border="0" />
+				</div>
 			</dd>
 		</dl>
 
@@ -166,6 +174,6 @@
 
         </dl>-->
 
-        <?php include ("../counter/phpunity-easycounter.php"); ?>
+        <?php /*include ("../counter/phpunity-easycounter.php"); */?>
 
     </div>

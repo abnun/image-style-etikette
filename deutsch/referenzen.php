@@ -46,11 +46,17 @@
             <br/>
             <ul class="referenzen">
                 <li>
+					Adolf W&uuml;rth GmbH &amp; Co. KG, K&uuml;nzelsau
+                </li>
+				<li>
 					Agentur f&uuml;r Arbeit, Heilbronn
                 </li>
 				<li>
 					Agentur f&uuml;r Arbeit, Ludwigsburg
                 </li>
+				<li>
+					Amicale des Francais de Heilbronn e.V.
+				</li>
 				<li>
                     Andreas Schneider Schule, Heilbronn
                 </li>
@@ -91,7 +97,10 @@
                     Estlander &amp; R&ouml;nnlund, Zug Schweiz
                 </li>
 				<li>
-					Evangelische Fachschule für Sozialp&auml;dagogik, Schw&auml;bisch Hall
+					Evangelische Fachschule f&uuml;r Sozialp&auml;dagogik, Schw&auml;bisch Hall
+				</li>
+				<li>
+					Experimenta, Heilbronn
 				</li>
                 <li>
                     Foreign Affairs Office of Shenzhen, China
@@ -138,6 +147,9 @@
                 <li>
                     Sonnenhof, Schw&auml;bisch-Hall
                 </li>
+				<li>
+					Stabsstelle Integration Stadt Heilbronn
+				</li>
                 <li>
                     Tanzschule Brenner, Heilbronn
                 </li>
