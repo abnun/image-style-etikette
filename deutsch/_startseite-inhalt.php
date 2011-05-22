@@ -70,6 +70,29 @@
 			<br/>
 			<br/>
 			<br/>
+			<br/>
+				<table style="text-align: left; width: 350px;">
+					<tr>
+						<td colspan="2">
+							<h3 class="ueberschrift3">
+								Wir beraten unter anderem
+							</h3>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							&nbsp;
+						</td>
+					</tr>
+					<tr style="text-align: center;">
+						<td>
+							<img src="../images/tv/rtl-logo.png" alt="Birgit Brenner bei RTL" />
+						</td>
+						<td>
+							<img src="../images/tv/kabel-eins-logo.png" alt="Birgit Brenner bei Kabel eins" style="width: 70px;" />
+						</td>
+					</tr>
+				</table>
 		</div>
 	</div>
 

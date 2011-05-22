@@ -135,6 +135,9 @@
 				<li>
 					Marbach Concepte, Heilbronn					
 				</li>
+				<li>
+					MME Me, Myself &amp; Eye Entertainment GmbH
+				</li>
                 <li>
                     Raiffeisenbank Kleinwalsertal AG, &Ouml;sterreich
                 </li>
@@ -144,6 +147,9 @@
                 <li>
                     Redaktion "Guter Rat", Berlin
                 </li>
+				<li>
+					RTL
+				</li>
                 <li>
                     Sonnenhof, Schw&auml;bisch-Hall
                 </li>
