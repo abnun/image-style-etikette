@@ -64,6 +64,22 @@
             </h1>
             <hr/>
 
+			<br/>
+
+			<b>Artikel auf DerBerater.de</b>
+			<p>
+				<span style="font-style: italic;">Gentleman</span> sein: Warum Frauen auf Kavaliere stehen
+			</p>
+			<p>
+				Frauen k&ouml;nnen Bohrmaschinen bedienen und wechseln bei einer Autopanne selbst den Reifen. Trotzdem
+				bekommen sie gl&auml;nzende Augen, wenn man ihnen die T&uuml;r aufh&auml;lt. Denn trotz aller
+				Emanzipation bleibt eines doch immer gleich: Frauen stehen auf Kavaliere. Wie man sich heute als
+				<span style="font-style: italic;">Gentleman</span> verhalten muss - der Berater hat nachgefragt.
+				<br/>
+				[...&nbsp;<a href="../downloads/der-berater-de-gentleman-sein.pdf" alt="Artikel auf DerBerater.de" target="_blank" >mehr</a>&nbsp;...]
+			</p>
+			<br/>
+
 			<b>Knigge-Tipp Juli</b>
 
             <p>

@@ -76,7 +76,7 @@
                 <br/>
                 inkl. 3-G&auml;nge-Men&uuml;, ausgew&auml;hlte Weine und Pausengetr&auml;nke
                 <br/>
-                Beginn: 10:30 Uhr | Dauer ca. 5 Std.
+                Beginn: 09:30 Uhr | Dauer ca. 5 Std.
                 <br/>
                 Seminarort: abh&auml;ngig vom Termin
                 <br/>
@@ -180,29 +180,38 @@
                 <table cellpadding="3" cellspacing="0">
                     <?php
 						$termine = array(
-										/*array('21.01.2010', '"Petite"', 'TS Brenner Heilbronn'),
-										array('23.01.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
-										array('11.03.2010', '"Test"', 'Hohly L&ouml;wenstein<span style="margin-left: 10px; color: gray;">(Nur noch wenige Pl&auml;tze frei!)</span>'),
-										array('18.03.2010', '"Petite"', 'TS Brenner Heilbronn'),
-										array('20.03.2010', '"Exclusive"', 'Ratskeller Heilbronn'),
-										array('17.04.2010', '"Grande"', 'Ratskeller Heilbronn'),
-										array('06.05.2010', '"Petite"', 'TS Brenner Heilbronn'),
-										array('08.05.2010', '"Grande"', 'Zum Alten Rentamt Schwaigern'),
-										array('17.06.2010', '"Petite"', 'TS Brenner Heilbronn'),
-										array('19.06.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
-										array('25.09.2010', '"Exclusive"', 'Ratskeller Heilbronn'),
-										array('21.10.2010', '"Petite"', 'TS Brenner Heilbronn'),
-										array('23.10.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
-										array('25.11.2010', '"Petite"', 'TS Brenner Heilbronn'),
-										array('27.11.2010', '"Grande"', 'Ratskeller Heilbronn'),*/
-										array('17.02.2011', '"Petite"', 'TS Brenner Heilbronn'),
-										array('26.02.2011', '"Grande"', 'Ratskeller Heilbronn'),
-										array('19.03.2011', '"Grande"', 'Hohly L&ouml;wenstein'),
-										array('24.03.2011', '"Petite"', 'TS Brenner Heilbronn'),
-										array('16.04.2011', '"Grande"', 'Ratskeller Heilbronn'),
-										array('12.05.2011', '"Petite"', 'TS Brenner Heilbronn'),
-										array('04.06.2011', '"Grande"', 'Ratskeller Heilbronn')
-										);
+					/*array('21.01.2010', '"Petite"', 'TS Brenner Heilbronn'),
+															array('23.01.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
+															array('11.03.2010', '"Test"', 'Hohly L&ouml;wenstein<span style="margin-left: 10px; color: gray;">(Nur noch wenige Pl&auml;tze frei!)</span>'),
+															array('18.03.2010', '"Petite"', 'TS Brenner Heilbronn'),
+															array('20.03.2010', '"Exclusive"', 'Ratskeller Heilbronn'),
+															array('17.04.2010', '"Grande"', 'Ratskeller Heilbronn'),
+															array('06.05.2010', '"Petite"', 'TS Brenner Heilbronn'),
+															array('08.05.2010', '"Grande"', 'Zum Alten Rentamt Schwaigern'),
+															array('17.06.2010', '"Petite"', 'TS Brenner Heilbronn'),
+															array('19.06.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
+															array('25.09.2010', '"Exclusive"', 'Ratskeller Heilbronn'),
+															array('21.10.2010', '"Petite"', 'TS Brenner Heilbronn'),
+															array('23.10.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
+															array('25.11.2010', '"Petite"', 'TS Brenner Heilbronn'),
+															array('27.11.2010', '"Grande"', 'Ratskeller Heilbronn'),*/
+					array('17.02.2011', '"Petite"', 'TS Brenner Heilbronn'),
+					array('26.02.2011', '"Grande"', 'Ratskeller Heilbronn'),
+					array('19.03.2011', '"Grande"', 'Hohly L&ouml;wenstein'),
+					array('24.03.2011', '"Petite"', 'TS Brenner Heilbronn'),
+					array('16.04.2011', '"Grande"', 'Ratskeller Heilbronn'),
+					array('12.05.2011', '"Petite"', 'TS Brenner Heilbronn'),
+					array('04.06.2011', '"Grande"', 'Ratskeller Heilbronn'),
+
+					array('07.07.2011', '"Petite"', 'TS Brenner Heilbronn'),
+					array('09.07.2011', '"Grande"', 'Hohly L&ouml;wenstein'),
+					array('17.09.2011', '"Grande"', 'Zum Alten Rentamt Schwaigern'),
+					array('19.09.2011', '"Petite"', 'TS Brenner Heilbronn'),
+					array('08.10.2011', '"Grande"', 'Hohly L&ouml;wenstein'),
+					array('17.10.2011', '"Petite"', 'TS Brenner Heilbronn'),
+					array('30.11.2011', '"Petite"', 'TS Brenner Heilbronn'),
+					array('03.12.2011', '"Grande"', 'Ratskeller Heilbronn')
+					);
 
 						for($count = 0; $count <= count($termine); $count++)
 						{

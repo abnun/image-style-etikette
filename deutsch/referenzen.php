@@ -76,6 +76,9 @@
                     CBI, Dubai
                 </li>
 				<li>
+					Der Berater
+				</li>
+				<li>
 					Deutsche Telekom AG
 				</li>
                 <li>
@@ -83,6 +86,9 @@
                 </li>
                 <li>
                     Deutscher Speditions- und Logistikverband
+                </li>
+				<li>
+                    DIS AG
                 </li>
 				<li>
 					Elly-Heuss-Knapp-Gymnasium, Heilbronn
@@ -111,9 +117,9 @@
 				<!--<li>
 					Fritz-Ulrich-Schule, Heilbronn
 				</li>-->
-                <li>
+                <!--<li>
                     Indo-German Chamber of Commerce, Delhi Indien
-                </li>
+                </li>-->
                 <li>
                     Industrie- und Handelskammer Iserlohn
                 </li>
@@ -129,6 +135,9 @@
                 <li>
                 	Landesbank Baden-W&uuml;rttemberg
                 </li>
+				<li>
+					Lufthansa
+				</li>
                 <li>
                     Mallorca Mietb&ouml;rse, Palma Mallorca
                 </li>
