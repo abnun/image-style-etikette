@@ -117,9 +117,9 @@
 				<!--<li>
 					Fritz-Ulrich-Schule, Heilbronn
 				</li>-->
-                <!--<li>
+                <li>
                     Indo-German Chamber of Commerce, Delhi Indien
-                </li>-->
+                </li>
                 <li>
                     Industrie- und Handelskammer Iserlohn
                 </li>

@@ -59,7 +59,7 @@
 				<br/>
                 <br/>
                 <br/>
-                <!--<a href="http://www.mk-guides.de" target="_blank"> --><img src="../images/partner/mk_guides.gif" border="0" alt="MK Guides"/><!--</a>-->
+                <!--<a href="http://www.mk-guides.de" target="_blank"> <img src="../images/partner/mk_guides.gif" border="0" alt="MK Guides"/></a>-->
 
             </div>
 
