@@ -180,22 +180,7 @@
                 <table cellpadding="3" cellspacing="0">
                     <?php
 						$termine = array(
-					/*array('21.01.2010', '"Petite"', 'TS Brenner Heilbronn'),
-															array('23.01.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
-															array('11.03.2010', '"Test"', 'Hohly L&ouml;wenstein<span style="margin-left: 10px; color: gray;">(Nur noch wenige Pl&auml;tze frei!)</span>'),
-															array('18.03.2010', '"Petite"', 'TS Brenner Heilbronn'),
-															array('20.03.2010', '"Exclusive"', 'Ratskeller Heilbronn'),
-															array('17.04.2010', '"Grande"', 'Ratskeller Heilbronn'),
-															array('06.05.2010', '"Petite"', 'TS Brenner Heilbronn'),
-															array('08.05.2010', '"Grande"', 'Zum Alten Rentamt Schwaigern'),
-															array('17.06.2010', '"Petite"', 'TS Brenner Heilbronn'),
-															array('19.06.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
-															array('25.09.2010', '"Exclusive"', 'Ratskeller Heilbronn'),
-															array('21.10.2010', '"Petite"', 'TS Brenner Heilbronn'),
-															array('23.10.2010', '"Grande"', 'Hohly L&ouml;wenstein'),
-															array('25.11.2010', '"Petite"', 'TS Brenner Heilbronn'),
-															array('27.11.2010', '"Grande"', 'Ratskeller Heilbronn'),*/
-					array('17.02.2011', '"Petite"', 'TS Brenner Heilbronn'),
+					/*array('17.02.2011', '"Petite"', 'TS Brenner Heilbronn'),
 					array('26.02.2011', '"Grande"', 'Ratskeller Heilbronn'),
 					array('19.03.2011', '"Grande"', 'Hohly L&ouml;wenstein'),
 					array('24.03.2011', '"Petite"', 'TS Brenner Heilbronn'),
@@ -210,7 +195,15 @@
 					array('08.10.2011', '"Grande"', 'Hohly L&ouml;wenstein'),
 					array('17.10.2011', '"Petite"', 'TS Brenner Heilbronn'),
 					array('30.11.2011', '"Petite"', 'TS Brenner Heilbronn'),
-					array('03.12.2011', '"Grande"', 'Ratskeller Heilbronn')
+					array('03.12.2011', '"Grande"', 'Ratskeller Heilbronn')*/
+							array('21.04.2012', '"Grande"', 'Heilbronn'),
+							array('23.04.2012', '"Petite"', 'TS Brenner Heilbronn'),
+							array('12.05.2012', '"Grande"', 'Heilbronn'),
+							array('14.05.2012', '"Petite"', 'TS Brenner Heilbronn'),
+							array('14.06.2012', '"Petite"', 'TS Brenner Heilbronn'),
+							array('16.06.2012', '"Grande"', 'Heilbronn'),
+							array('09.07.2012', '"Petite"', 'TS Brenner Heilbronn'),
+							array('14.07.2012', '"Grande"', 'Heilbronn')
 					);
 
 						for($count = 0; $count <= count($termine); $count++)
