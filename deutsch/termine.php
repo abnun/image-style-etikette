@@ -182,28 +182,31 @@
 						$termine = array(
 					/*array('17.02.2011', '"Petite"', 'TS Brenner Heilbronn'),
 					array('26.02.2011', '"Grande"', 'Ratskeller Heilbronn'),
-					array('19.03.2011', '"Grande"', 'Hohly L&ouml;wenstein'),
+					array('19.03.2011', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
 					array('24.03.2011', '"Petite"', 'TS Brenner Heilbronn'),
 					array('16.04.2011', '"Grande"', 'Ratskeller Heilbronn'),
 					array('12.05.2011', '"Petite"', 'TS Brenner Heilbronn'),
 					array('04.06.2011', '"Grande"', 'Ratskeller Heilbronn'),
 
 					array('07.07.2011', '"Petite"', 'TS Brenner Heilbronn'),
-					array('09.07.2011', '"Grande"', 'Hohly L&ouml;wenstein'),
+					array('09.07.2011', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
 					array('17.09.2011', '"Grande"', 'Zum Alten Rentamt Schwaigern'),
 					array('19.09.2011', '"Petite"', 'TS Brenner Heilbronn'),
-					array('08.10.2011', '"Grande"', 'Hohly L&ouml;wenstein'),
+					array('08.10.2011', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
 					array('17.10.2011', '"Petite"', 'TS Brenner Heilbronn'),
 					array('30.11.2011', '"Petite"', 'TS Brenner Heilbronn'),
 					array('03.12.2011', '"Grande"', 'Ratskeller Heilbronn')*/
-							array('21.04.2012', '"Grande"', 'Heilbronn'),
-							array('23.04.2012', '"Petite"', 'TS Brenner Heilbronn'),
-							array('12.05.2012', '"Grande"', 'Heilbronn'),
-							array('14.05.2012', '"Petite"', 'TS Brenner Heilbronn'),
-							array('14.06.2012', '"Petite"', 'TS Brenner Heilbronn'),
-							array('16.06.2012', '"Grande"', 'Heilbronn'),
-							array('09.07.2012', '"Petite"', 'TS Brenner Heilbronn'),
-							array('14.07.2012', '"Grande"', 'Heilbronn')
+							array('15.03.2012', '"Flirt-Knigge"', 'Winery Heilbronn'),
+							array('12.04.2012', '"Flirt-Knigge"', 'Tanzschule Brenner Heilbronn'),
+							array('21.04.2012', '"Grande"', 'Ratskeller Heilbronn'),
+							array('23.04.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
+							array('12.05.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
+							array('14.05.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
+							array('24.05.2012', '"Flirt-Knigge"', 'Zentrum f&uuml;r Naturheilkunde Heilbronn'),
+							array('14.06.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
+							array('16.06.2012', '"Grande"', 'Ratskeller Heilbronn'),
+							array('09.07.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
+							array('14.07.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein')
 					);
 
 						for($count = 0; $count <= count($termine); $count++)
