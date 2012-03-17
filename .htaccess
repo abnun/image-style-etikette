@@ -1,0 +1,7 @@
+#RewriteEngine On
+
+#RewriteCond %{HTTP_HOST} !^b-brenner.com [NC]
+#RewriteRule ^(.*)index.php$ /deutsch/startseite.php [L,R=301]
+
+#RewriteCond %{REQUEST_URI} !^favicon.ico$ [NC]
+#RewriteRule ^(.*)favicon.ico /images/favicon/favicon.ico [L,R=301]

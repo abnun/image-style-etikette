@@ -147,6 +147,9 @@
 				<li>
 					MME Me, Myself &amp; Eye Entertainment GmbH
 				</li>
+				<li>
+					PEAG Personal GmbH
+				</li>
                 <li>
                     Raiffeisenbank Kleinwalsertal AG, &Ouml;sterreich
                 </li>

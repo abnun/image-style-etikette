@@ -228,6 +228,31 @@
 
                 <br />
 
+				<h2 class="ueberschrift2">
+					Jetzt auch in China (Peking)!
+				</h2>
+
+				<br />
+				<b>"Knigge f&uuml;r Kids"</b> und
+				<b>"Personal Image Consulting"</b>
+				<br />
+				<h2 class="ueberschrift2">Termine:</h2>
+
+				<table cellpadding="3" cellspacing="0">
+					<tr>
+						<td style="padding-right: 20px;">
+							5.-13.07.12 in Peking (China)
+						</td>
+					</tr>
+					<tr>
+						<td style="padding-right: 20px;">
+							6.-14.08.12 in Peking (China)
+						</td>
+					</tr>
+				</table>
+
+                <br />
+
                 <!--<div>
                     <a href="../downloads/image_style_etikette_flyer.pdf" target="_blank"
                        title="image . style . etikette - Seminar-Flyer">
