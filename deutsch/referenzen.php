@@ -180,6 +180,9 @@
                 <li>
                     VK Medienpark, Zug Schweiz
                 </li>
+				<li>
+					VR Bank Schw&auml;bisch Hall-Crailsheim eG
+				</li>
                 <li>
                     Wende Communication, Berlin
                 </li>

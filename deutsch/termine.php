@@ -204,7 +204,7 @@
 							array('14.05.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
 							array('24.05.2012', '"Flirt-Knigge"', 'Zentrum f&uuml;r Naturheilkunde Heilbronn'),
 							array('14.06.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
-							array('16.06.2012', '"Grande"', 'Ratskeller Heilbronn'),
+							array('16.06.2012', '"Gala Lunch" f&uuml;r Jugendliche', 'Ratskeller Heilbronn'),
 							array('09.07.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
 							array('14.07.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein')
 					);
@@ -230,6 +230,10 @@
 
 				<h2 class="ueberschrift2">
 					Jetzt auch in China (Peking)!
+					<br />
+					<span style="font-size: 10px;">
+						 - In Zusammenarbeit mit der "Knigge Akademie China" -
+					</span>
 				</h2>
 
 				<br />
@@ -246,7 +250,7 @@
 					</tr>
 					<tr>
 						<td style="padding-right: 20px;">
-							6.-14.08.12 in Peking (China)
+							16.-24.07.12 in Peking (China)
 						</td>
 					</tr>
 				</table>

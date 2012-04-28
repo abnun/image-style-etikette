@@ -4,7 +4,7 @@
 <head>
 
     <title>Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Interkulturelle Kommunikation | Personal Shopping | Startseite</title>
-
+	
     <?php include("verschiedenes/_head_metatags.php"); ?>
 
     <link rel="stylesheet" type="text/css" media="screen, print" href="/style/style.css"/>
@@ -12,6 +12,7 @@
     <script src="../javascript/prototype.js" type="text/javascript"></script>
     <script src="../javascript/effects.js" type="text/javascript"></script>
 
+	<link rel="canonical" href="http://www.b-brenner.de/" />
 </head>
 
 <body>
