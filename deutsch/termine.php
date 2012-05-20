@@ -202,7 +202,7 @@
 							array('23.04.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
 							array('12.05.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
 							array('14.05.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
-							array('24.05.2012', '"Flirt-Knigge"', 'Zentrum f&uuml;r Naturheilkunde Heilbronn'),
+							/*array('24.05.2012', '"Flirt-Knigge"', 'Zentrum f&uuml;r Naturheilkunde Heilbronn'),*/
 							array('14.06.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
 							array('16.06.2012', '"Gala Lunch" f&uuml;r Jugendliche', 'Ratskeller Heilbronn'),
 							array('09.07.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
@@ -245,12 +245,12 @@
 				<table cellpadding="3" cellspacing="0">
 					<tr>
 						<td style="padding-right: 20px;">
-							5.-13.07.12 in Peking (China)
+							16.-24.07.2012 in Peking (China)
 						</td>
 					</tr>
 					<tr>
 						<td style="padding-right: 20px;">
-							16.-24.07.12 in Peking (China)
+							06.-14.08.2012 in Peking (China)
 						</td>
 					</tr>
 				</table>

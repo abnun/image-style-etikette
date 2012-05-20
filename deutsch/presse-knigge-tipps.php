@@ -66,6 +66,18 @@
 
 			<br/>
 
+			<b>Artikel in der Heilbronner Stimme zum Thema "Kinder-Knigge" vom April 2012</b>
+			<p>
+				Klicken Sie auf das Bild, um es zu vergr&ouml;&szlig;ern!
+			</p>
+			<a href="../images/presse/hn-stimme_kinder-knigge_04-2012.jpg" class="highslide" onclick="return hs.expand(this, {wrapperClassName: 'highslide-no-border', dimmingOpacity: 0.75, align: 'center'})">
+				<img src="../images/presse/hn-stimme_kinder-knigge_04-2012_klein.jpg" alt="Birgit Brenner | Artikel in der Heilbronner Stimme zum Thema 'Kinder-Knigge' vom April 2012" title="Klicken Sie hier, um eine vergr&ouml;&szlig;erte Ansicht des Bildes zu bekommen"/>
+			</a>
+			<div id="closebutton" class="highslide-overlay closebutton" style="display:none;" onclick="return hs.close(this)" title="Schlie&szlig;en"></div>
+			<p>
+			</p>
+			<br/>
+
 			<b>Artikel auf DerBerater.de</b>
 			<p>
 				<span style="font-style: italic;">Gentleman</span> sein: Warum Frauen auf Kavaliere stehen

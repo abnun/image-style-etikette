@@ -72,6 +72,16 @@
                 </a>
 
             </div>
+			<br/>
+
+            <div>
+                <a href="../downloads/kinder-knigge_HST_0412.pdf" target="_blank"
+                   title="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Artikel in der Heilbronner Stimme zum Thema Kinder-Knigge vom April 2012">
+                    <img src="../images/icons/pdf_icon.gif" alt="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Artikel in der Heilbronner Stimme zum Thema 'Kinder-Knigge' vom April 2012" title="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Knigge Training | Business Etikette | Artikel in der Heilbronner Stimme zum Thema 'Kinder-Knigge' vom April 2012" border="0"/>
+					Artikel in der Heilbronner Stimme zum Thema "Kinder-Knigge" vom April 2012
+                </a>
+
+            </div>
 
         </div>
     </div>
