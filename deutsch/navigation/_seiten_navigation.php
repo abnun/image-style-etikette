@@ -77,18 +77,6 @@
                 </div>
             </dd>
 
-            <!--<dd>
-
-                <div>
-                    <ul>
-                        <li>
-                            <a href="team.php" class="<?php //$link == 'team.php' ? print 'active' : print ''; ?>" title="Das Team">Das Team</a>
-                        </li>
-                    </ul>
-
-                </div>
-            </dd>-->
-
             <dd>
 
                 <div>
@@ -130,7 +118,7 @@
 					<div style="padding: 5px 5px; margin-top: 10px; text-align: center;">
 						<b>Die Geschenkidee<!-- zu Weihnachten-->!</b>
 					</div>
-					<img src="../../images/gutschein/birgit-brenner-knigge-gutschein.gif" alt="Gutschein" border="0" style="position: relative;" />
+					<img src="../../images/gutschein/birgit-brenner-knigge-gutschein.gif" alt="Gutschein" style="position: relative; border: none;" />
 				</a>
 			</dd>
 		</dl>
@@ -173,7 +161,5 @@
             </dd>
 
         </dl>-->
-
-        <?php /*include ("../counter/phpunity-easycounter.php"); */?>
 
     </div>
