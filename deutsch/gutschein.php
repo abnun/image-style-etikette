@@ -39,7 +39,7 @@
 
         <div>
             <h1 class="ueberschrift1">
-                Gutscheinbestellung
+                Gutscheinbestellung - die Geschenkidee!
             </h1>
             <br/>
             <div>
@@ -62,5 +62,6 @@
 <?php include("seitenaufbau/_footer.php"); ?>
 
 <?php include("verschiedenes/_analytics.php"); ?>
+<?php include("verschiedenes/_highslide_imports.php"); ?>
 </body>
 </html>

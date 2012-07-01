@@ -42,8 +42,48 @@
                 Auszug Referenzen
             </h1>
             <hr/>
-
+			<table style="width: 540px;" cellpadding="5">
+				<colgroup>
+					<col width="180">
+					<col width="180">
+					<col width="180">
+				</colgroup>
+				<tbody>
+					<tr>
+						<td align="center" valign="middle"><img src="../images/tv/rtl-logo.png" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/tv/kabel-eins-logo.png" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/wuerth.jpg" alt="" /></td>
+					</tr>
+					<tr>
+						<td align="center" valign="middle"><img src="../images/referenzen/bosch.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/dvag.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/telekom.jpg" alt="" /></td>
+					</tr>
+					<tr>
+						<td align="center" valign="middle"><img src="../images/referenzen/ernstyoung.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/lbbw.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/disag.jpg" alt="" /></td>
+					</tr>
+					<tr>
+						<td align="center" valign="middle"><img src="../images/referenzen/raiffeisenbankkleinwalsertal.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/bundesagenturarbeit.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/lufthansacitycenterservice.jpg" alt="" /></td>
+					</tr>
+					<tr>
+						<td align="center" valign="middle"><img src="../images/referenzen/vrbankschwaebischhall.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/wjhn.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/kaufland.jpg" alt="" /></td>
+					</tr>
+					<tr>
+						<td align="center" valign="middle"><img src="../images/referenzen/peag.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/guterrat.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/cornelsen.jpg" alt="" /></td>
+					</tr>
+				</tbody>
+			</table>
             <br/>
+            <br/>
+
             <ul class="referenzen">
                 <li>
 					Adolf W&uuml;rth GmbH &amp; Co. KG, K&uuml;nzelsau
@@ -213,5 +253,6 @@
 <?php include("seitenaufbau/_footer.php"); ?>
 
 <?php include("verschiedenes/_analytics.php"); ?>
+<?php include("verschiedenes/_highslide_imports.php"); ?>
 </body>
 </html>

@@ -99,6 +99,17 @@
 
                 </div>
             </dd>
+			<dd>
+
+				<div>
+					<ul>
+						<li>
+							<a href="/deutsch/gutschein.php" class="<?php $link == 'gutschein.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Gutschein">Gutschein</a>
+						</li>
+					</ul>
+
+				</div>
+			</dd>
             <dd>
 
                 <div>
@@ -112,14 +123,27 @@
             </dd>
         </dl>
 
-		<dl>
+		<!--<dl>
 			<dd class="last">
 				<a href="/deutsch/gutschein.php" title="Gutschein" style="border: none;">
 					<div style="padding: 5px 5px; margin-top: 10px; text-align: center;">
-						<b>Die Geschenkidee<!-- zu Weihnachten-->!</b>
+						<b>Die Geschenkidee--><!-- zu Weihnachten--><!--!</b>
 					</div>
 					<img src="../../images/gutschein/birgit-brenner-knigge-gutschein.gif" alt="Gutschein" style="position: relative; border: none;" />
 				</a>
+			</dd>
+		</dl>-->
+
+		<dl>
+			<dd class="last">
+				<div style="text-align: center;">
+					<h6 style="font-size: 14px;">Business Etikette</h6>
+					<h6 style="font-size: 14px;">Birgit Brenner</h6>
+					<h6 style="font-size: 14px; margin-top: 15px;">E-Book</h6>
+					<a href="_ebook.php" style="border-bottom: none;" onclick="return hs.htmlExpand(this, { outlineType: 'rounded-white', objectType: 'iframe', dimmingOpacity: 0.75, align: 'center', width: 400} )">
+						<img src="/images/e-book/business-etikette.jpg" alt="Birgit Brenner | E-Book | Business Etikette" style="border: none;" />
+					</a>
+				</div>
 			</dd>
 		</dl>
 

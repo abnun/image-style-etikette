@@ -9,30 +9,6 @@
 
     <link rel="stylesheet" type="text/css" media="screen, print" href="/style/style.css"/>
 
-	<script type="text/javascript" src="../javascript/highslide/highslide.js"></script>
-	<link rel="stylesheet" type="text/css" href="../javascript/highslide/highslide.css"/>
-    <script type="text/javascript">
-		hs.registerOverlay({overlayId: 'closebutton',position: 'top right',fade: 2});
-		// remove the registerOverlay call to disable the close button
-		// fading the semi-transparent overlay looks bad in IE
-
-        hs.graphicsDir = "/javascript/highslide/graphics/";
-        hs.showCredits = false;
-    </script>
-
-	<!--<script type="text/javascript">
-		$(document).ready(function()
-		{
-			$("#hn-stimme").click(function()
-			{
-				if ($("#hn-stimme-bild-big").is(":hidden"))
-				{
-					$("#hn-stimme-bild-big").slideDown("slow");
-				}
-			});
-		});
-	</script>-->
-
 </head>
 
 <body>
@@ -70,7 +46,7 @@
 			<p>
 				Klicken Sie auf das Bild, um es zu vergr&ouml;&szlig;ern!
 			</p>
-			<a href="../images/presse/hn-stimme_kinder-knigge_04-2012.jpg" class="highslide" onclick="return hs.expand(this, {wrapperClassName: 'highslide-no-border', dimmingOpacity: 0.75, align: 'center'})">
+			<a href="../images/presse/hn-stimme_kinder-knigge_04-2012.jpg" class="highslide" onclick="return hs.expand(this, {outlineType: 'rounded-white', wrapperClassName: 'highslide-no-border', dimmingOpacity: 0.75, align: 'center'})">
 				<img src="../images/presse/hn-stimme_kinder-knigge_04-2012_klein.jpg" alt="Birgit Brenner | Artikel in der Heilbronner Stimme zum Thema 'Kinder-Knigge' vom April 2012" title="Klicken Sie hier, um eine vergr&ouml;&szlig;erte Ansicht des Bildes zu bekommen"/>
 			</a>
 			<div id="closebutton" class="highslide-overlay closebutton" style="display:none;" onclick="return hs.close(this)" title="Schlie&szlig;en"></div>
@@ -194,7 +170,7 @@
 			<p>
 				Klicken Sie auf das Bild, um es zu vergr&ouml;&szlig;ern!
 			</p>
-			<a href="../images/presse/hn-stimme_17_02_2009.jpg" class="highslide" onclick="return hs.expand(this, {wrapperClassName: 'highslide-no-border', dimmingOpacity: 0.75, align: 'center'})">
+			<a href="../images/presse/hn-stimme_17_02_2009.jpg" class="highslide" onclick="return hs.expand(this, {outlineType: 'rounded-white', wrapperClassName: 'highslide-no-border', dimmingOpacity: 0.75, align: 'center'})">
 				<img src="../images/presse/hn-stimme_17_02_2009_klein.jpg" alt="Birgit Brenner | Artikel in der Heilbronner Stimme vom 17.02.2009" title="Klicken Sie hier, um eine vergr&ouml;&szlig;erte Ansicht des Bildes zu bekommen"/>
 			</a>
 			<div id="closebutton" class="highslide-overlay closebutton" style="display:none;" onclick="return hs.close(this)" title="Schlie&szlig;en"></div>
@@ -737,5 +713,6 @@
 <?php include("seitenaufbau/_footer.php"); ?>
 
 <?php include("verschiedenes/_analytics.php"); ?>
+<?php include("verschiedenes/_highslide_imports.php"); ?>
 </body>
 </html>

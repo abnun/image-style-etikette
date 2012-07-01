@@ -339,5 +339,6 @@
 <?php include("seitenaufbau/_footer.php"); ?>
 
 <?php include("verschiedenes/_analytics.php"); ?>
+<?php include("verschiedenes/_highslide_imports.php"); ?>
 </body>
 </html>
