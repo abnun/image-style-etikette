@@ -137,10 +137,9 @@
 		<dl>
 			<dd class="last">
 				<div style="text-align: center;">
-					<h6 style="font-size: 14px;">Business Etikette</h6>
-					<h6 style="font-size: 14px;">Birgit Brenner</h6>
-					<h6 style="font-size: 14px; margin-top: 15px;">E-Book</h6>
-					<a href="_ebook.php" style="border-bottom: none;" onclick="return hs.htmlExpand(this, { outlineType: 'rounded-white', objectType: 'iframe', dimmingOpacity: 0.75, align: 'center', width: 400} )">
+					<h3 style="font-size: 14px; color: #542E0F;">Business Etikette eBook</h3>
+					<h3 style="font-size: 12px; color: #542E0F;">Autorin: Birgit Brenner</h3>
+					<a href="http://bookboon.com/de/business/kommunikation/business-etikette" style="border-bottom: none;" target="_blank">
 						<img src="/images/e-book/business-etikette.jpg" alt="Birgit Brenner | E-Book | Business Etikette" style="border: none;" />
 					</a>
 				</div>

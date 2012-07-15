@@ -10,8 +10,16 @@
 </head>
 
 <body>
-<div style="padding: 5px; border: 1px solid #ccc; width: 350px; text-align: center; background: #fff;">
-	<iframe src="http://subsites.bookboon.com/embed/?book=c18687b6-4207-4fad-87f1-a04c00b62e31&amp;size=medium&amp;color=000000" width="350" height="250" frameborder="0" scrolling="no"></iframe>
+<div style="padding: 5px; border: 1px solid #ccc; width: 450px; text-align: center; background: #fff;">
+	<iframe src="http://subsites.bookboon.com/embed/?book=c18687b6-4207-4fad-87f1-a04c00b62e31&amp;size=medium&amp;color=000000" width="450" height="250" frameborder="0" scrolling="no"></iframe>
+	<div>
+		<ol>
+			<li>Bitte tragen Sie ihre E-Mail Adresse ein.</li>
+			<li>Studium oder Job?</li>
+			<li>T&auml;tigkeit?</li>
+			<li>Bundesland?</li>
+		</ol>
+	</div>
 	<a style="font: 10px Arial, Helvetica, sans-serif; color: #000;" href="http://bookboon.com">More free eBooks?</a>
 </div>
 </body>
