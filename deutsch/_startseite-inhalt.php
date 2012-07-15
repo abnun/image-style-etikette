@@ -73,7 +73,7 @@
 			<br/>
 				<table style="text-align: left; width: 350px;">
 					<tr>
-						<td colspan="2">
+						<td colspan="4">
 							<h3 class="ueberschrift3">
 								Wir beraten unter anderem
 							</h3>
@@ -86,10 +86,16 @@
 					</tr>
 					<tr style="text-align: center;">
 						<td>
-							<img src="../images/tv/rtl-logo.png" alt="Birgit Brenner bei RTL" />
+							<img src="../images/tv/rtl-logo.png" alt="Birgit Brenner bei RTL" style="width: 70px;" />
 						</td>
 						<td>
 							<img src="../images/tv/kabel-eins-logo.png" alt="Birgit Brenner bei Kabel eins" style="width: 70px;" />
+						</td>
+						<td>
+							<img src="../images/tv/swr-logo.png" alt="Birgit Brenner bei SWR" style="width: 70px;" />
+						</td>
+						<td>
+							<img src="../images/tv/wdr-logo.png" alt="Birgit Brenner bei WDR" style="width: 70px;" />
 						</td>
 					</tr>
 				</table>
