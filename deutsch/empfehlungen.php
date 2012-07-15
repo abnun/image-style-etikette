@@ -83,6 +83,15 @@
 			<b>Personal Shopping</b>
 			<br/>
 			<p>
+				"Liebe Frau Brenner!
+				<br/>
+				Ich danke Ihnen f&uuml;r die wertvolle Typberatung und hilfreichen Tipps zu meinem Auftreten.
+				<br/>
+				Dank Ihrer Hilfe bin ich zu einer selbstbewussten Frau geworden, die sich jetzt so mag wie sie ist."
+				<br/>
+				(Katharina F.)
+			</p>
+			<p>
 				"Zwei Hochzeiten - ein Fall f&uuml;r Frau Brenner
 				<br/>
 				Eigentlich gehe ich ja gerne einkaufen, wenn man aber "unbedingt" und zwar "gleich" etwas braucht , bekommt man selbst als Frau leichte Panikattacken.
