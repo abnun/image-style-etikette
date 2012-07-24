@@ -187,26 +187,25 @@
 					array('16.04.2011', '"Grande"', 'Ratskeller Heilbronn'),
 					array('12.05.2011', '"Petite"', 'TS Brenner Heilbronn'),
 					array('04.06.2011', '"Grande"', 'Ratskeller Heilbronn'),
-
-					array('07.07.2011', '"Petite"', 'TS Brenner Heilbronn'),
-					array('09.07.2011', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
-					array('17.09.2011', '"Grande"', 'Zum Alten Rentamt Schwaigern'),
-					array('19.09.2011', '"Petite"', 'TS Brenner Heilbronn'),
-					array('08.10.2011', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
-					array('17.10.2011', '"Petite"', 'TS Brenner Heilbronn'),
-					array('30.11.2011', '"Petite"', 'TS Brenner Heilbronn'),
-					array('03.12.2011', '"Grande"', 'Ratskeller Heilbronn')*/
-							array('15.03.2012', '"Flirt-Knigge"', 'Winery Heilbronn'),
+					*/
+					array('13.09.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
+					array('22.09.2012', '"Knigge f&uuml;r Kids"', 'Gasthof Hohly L&ouml;wenstein'),
+					array('29.09.2012', '"Knigge f&uuml;r Jugendliche"', 'Ratskeller Heilbronn'),
+					array('06.10.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
+					array('25.10.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
+					array('01.12.2012', '"Grande"', 'Ratskeller Heilbronn'),
+					array('13.12.2012', '"Petite"', 'Tanzschule Brenner Heilbronn')
+							/*array('15.03.2012', '"Flirt-Knigge"', 'Winery Heilbronn'),
 							array('12.04.2012', '"Flirt-Knigge"', 'Tanzschule Brenner Heilbronn'),
 							array('21.04.2012', '"Grande"', 'Ratskeller Heilbronn'),
 							array('23.04.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
 							array('12.05.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
 							array('14.05.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
-							/*array('24.05.2012', '"Flirt-Knigge"', 'Zentrum f&uuml;r Naturheilkunde Heilbronn'),*/
+							array('24.05.2012', '"Flirt-Knigge"', 'Zentrum f&uuml;r Naturheilkunde Heilbronn'),
 							array('14.06.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
 							array('16.06.2012', '"Gala Lunch" f&uuml;r Jugendliche', 'Ratskeller Heilbronn'),
 							array('09.07.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
-							array('14.07.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein')
+							array('14.07.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein')*/
 					);
 
 						for($count = 0; $count <= count($termine); $count++)
