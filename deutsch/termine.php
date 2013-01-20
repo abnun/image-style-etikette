@@ -180,21 +180,21 @@
                 <table cellpadding="3" cellspacing="0">
                     <?php
 						$termine = array(
-					/*array('17.02.2011', '"Petite"', 'TS Brenner Heilbronn'),
-					array('26.02.2011', '"Grande"', 'Ratskeller Heilbronn'),
-					array('19.03.2011', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
-					array('24.03.2011', '"Petite"', 'TS Brenner Heilbronn'),
-					array('16.04.2011', '"Grande"', 'Ratskeller Heilbronn'),
-					array('12.05.2011', '"Petite"', 'TS Brenner Heilbronn'),
-					array('04.06.2011', '"Grande"', 'Ratskeller Heilbronn'),
-					*/
-					array('13.09.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
-					array('22.09.2012', '"Knigge f&uuml;r Kids"', 'Gasthof Hohly L&ouml;wenstein'),
-					array('29.09.2012', '"Knigge f&uuml;r Jugendliche"', 'Ratskeller Heilbronn'),
-					array('06.10.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
+					array('09.03.2013', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
+					array('11.03.2013', '"Petite"', 'Tanzschule Brenner Heilbronn'),
+					array('13.04.2013', '"Grande"', 'Ratskeller Heilbronn'),
+					array('22.04.2013', '"Petite"', 'Tanzschule Brenner Heilbronn'),
+					array('13.05.2013', '"Petite"', 'Tanzschule Brenner Heilbronn'),
+					array('08.06.2013', '"Grande"', 'Ratskeller Heilbronn'),
+					array('10.06.2013', '"Petite"', 'Tanzschule Brenner Heilbronn'),
+					array('06.07.2013', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
+					array('08.07.2013', '"Petite"', 'Tanzschule Brenner Heilbronn')
+					/*array('22.09.2012', '"Knigge f&uuml;r Kids"', 'Gasthof Hohly L&ouml;wenstein'),*/
+					/*array('29.09.2012', '"Knigge f&uuml;r Jugendliche"', 'Ratskeller Heilbronn'),*/
+					/*array('06.10.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
 					array('25.10.2012', '"Petite"', 'Tanzschule Brenner Heilbronn'),
 					array('01.12.2012', '"Grande"', 'Ratskeller Heilbronn'),
-					array('13.12.2012', '"Petite"', 'Tanzschule Brenner Heilbronn')
+					array('13.12.2012', '"Petite"', 'Tanzschule Brenner Heilbronn')*/
 							/*array('15.03.2012', '"Flirt-Knigge"', 'Winery Heilbronn'),
 							array('12.04.2012', '"Flirt-Knigge"', 'Tanzschule Brenner Heilbronn'),
 							array('21.04.2012', '"Grande"', 'Ratskeller Heilbronn'),
@@ -243,13 +243,16 @@
 
 				<table cellpadding="3" cellspacing="0">
 					<tr>
-						<td style="padding-right: 20px;">
+						<!--<td style="padding-right: 20px;">
 							16.-24.07.2012 in Peking (China)
 						</td>
 					</tr>
 					<tr>
 						<td style="padding-right: 20px;">
 							06.-14.08.2012 in Peking (China)
+						</td>-->
+						<td colspan="2" style="padding-right: 20px;">
+							Termine 2013 werden noch bekannt gegeben.
 						</td>
 					</tr>
 				</table>
