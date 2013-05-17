@@ -64,7 +64,7 @@
                 http://www.b-brenner.com
                 <br/>
                 <br/>
-                Rufen Sie uns an oder schicken Sie uns eine Mail.
+                Rufen Sie uns an oder senden Sie uns eine Nachricht per Mail oder &uuml;ber unser Kontaktformular.
                 <br/>
                 Wir freuen uns auf Sie!
             </div>
