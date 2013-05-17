@@ -79,6 +79,11 @@
 						<td align="center" valign="middle"><img src="../images/referenzen/guterrat.jpg" alt="" /></td>
 						<td align="center" valign="middle"><img src="../images/referenzen/cornelsen.jpg" alt="" /></td>
 					</tr>
+					<tr>
+						<td align="center" valign="middle" colspan="3"><img src="../images/referenzen/sparkassewestfalenlippe.jpg" alt="" style="margin-right: 50px;" /><img src="../images/referenzen/sparkasseheilbronn.jpg" alt="" /></td>
+<!--						<td align="center" valign="middle"></td>-->
+<!--						<td align="center" valign="middle"></td>-->
+					</tr>
 				</tbody>
 			</table>
             <br/>
