@@ -76,7 +76,7 @@
                 <br/>
                 inkl. 3-G&auml;nge-Men&uuml;, ausgew&auml;hlte Weine und Pausengetr&auml;nke
                 <br/>
-                Beginn: 09:30 Uhr | Dauer ca. 5 Std.
+                Beginn: 10:00 Uhr | Dauer ca. 5 Std.
                 <br/>
                 Seminarort: abh&auml;ngig vom Termin
                 <br/>
