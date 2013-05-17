@@ -137,6 +137,25 @@
 		<dl>
 			<dd class="last">
 				<div style="text-align: center;">
+					<a href="/deutsch/kontakt.php" style="border-bottom: none;">
+						<img src="/images/aktion/naechstes-seminar-icon.png"
+							 alt="Birgit Brenner | Nächstes offenes Seminar am 8.6.2013"
+							 style="border: none; width: 140px;" />
+					</a>
+					<p style="font-size: 9pt; margin-bottom: 0px;">
+						* Seminar "Grande" am <b>8.6.2013</b>.
+					</p>
+                    <!--<p style="font-size: x-small; margin-bottom: 0px;">
+                        <a href="/deutsch/kontakt.php">Buchen</a> Sie das Seminar bis zum 17.05.
+                        und zahlen Sie nur 159.- &euro; statt 179.- &euro;!
+                    </p>-->
+				</div>
+			</dd>
+		</dl>
+
+		<dl>
+			<dd class="last">
+				<div style="text-align: center; border-top: 4px dashed #f3dfc9;">
 					<h3 style="font-size: 14px; color: #542E0F;">Business Etikette eBook</h3>
 					<h3 style="font-size: 12px; color: #542E0F;">Autorin: Birgit Brenner</h3>
 					<a href="http://bookboon.com/de/business/kommunikation/business-etikette" style="border-bottom: none;" target="_blank">
@@ -147,21 +166,23 @@
 		</dl>
 
 		<dl>
-			<dd class="last">
-				<div style="padding: 5px 5px; margin-top: 10px; text-align: center;">
+			<dd class="last" style="text-align: center;">
+				<div style="padding: 5px 5px; margin-top: 10px; text-align: center; border-top: 4px dashed #f3dfc9;">
 					<img src="../../images/ihk/ihk-logo.gif" alt="IHK Logo" border="0" />
 				</div>
 			</dd>
 		</dl>
 
         <dl>
-
-            <blockquote>
-                <?php
-                    print $quotes[$zufall1];
-                ?>
-            </blockquote>
-
+			<dd class="last" style="text-align: center;">
+				<div style="border-top: 4px dashed #f3dfc9;">
+					<blockquote>
+						<?php
+						print $quotes[$zufall1];
+						?>
+					</blockquote>
+				</div>
+			</dd>
         </dl>
 
         <!--<dl class="last">
