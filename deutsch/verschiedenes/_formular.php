@@ -79,7 +79,7 @@
 		}
 	}
 ?>
-<form action="../kontakt.php" method="post">
+<form action="/deutsch/kontakt.php" method="post">
 	<p>
 		<label class="<?php $vornameError === true ? print 'red' : print ''; ?>">Vorname</label>
 		<input name="vorname" type="text" size="30" value="<?php $vorname_gefiltert != '' ? print $vorname_gefiltert : print ''; ?>"/>
@@ -87,7 +87,7 @@
 		<input name="nachname" type="text" size="30" value="<?php $nachname_gefiltert != '' ? print $nachname_gefiltert : print ''; ?>"/>
 		<label class="<?php ($emailError === true || $emailNotValid === true) ? print 'red' : print ''; ?>">E-Mail</label>
 		<input name="email" type="text" size="30" value="<?php $email_gefiltert != '' ? print $email_gefiltert : print ''; ?>"/>
-		<label class="<?php $nachrichtError === true ? print 'red' : print ''; ?>">Kommentar</label>
+		<label class="<?php $nachrichtError === true ? print 'red' : print ''; ?>">Nachricht</label>
 		<textarea name="nachricht" rows="5" cols="5"><?php $nachricht_gefiltert != '' ? print $nachricht_gefiltert : print ''; ?></textarea>
 		<br/>
 		<input class="button" name="gesendet" type="submit"/>
