@@ -177,18 +177,23 @@
                     <!--Unsere weiteren -->Termine
                 </h2>
 
+				Seminar "Petite" findet in der Tanzschule Brenner in Heilbronn statt.
+				<br />
+				Seminar "Grande" findet in einem renomierten Restaurant in Heilbronn und Umgebung statt.
+				<br />
+				<br />
                 <table cellpadding="3" cellspacing="0">
                     <?php
 						$termine = array(
-					array('09.03.2013', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
-					array('11.03.2013', '"Petite"', 'Tanzschule Brenner Heilbronn'),
-					array('13.04.2013', '"Grande"', 'Ratskeller Heilbronn'),
-					array('22.04.2013', '"Petite"', 'Tanzschule Brenner Heilbronn'),
-					array('13.05.2013', '"Petite"', 'Tanzschule Brenner Heilbronn'),
-					array('08.06.2013', '"Grande"', 'Ratskeller Heilbronn'),
-					array('10.06.2013', '"Petite"', 'Tanzschule Brenner Heilbronn'),
-					array('06.07.2013', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
-					array('08.07.2013', '"Petite"', 'Tanzschule Brenner Heilbronn')
+					array('06.07.2013', '"Grande"', ''),
+					array('08.07.2013', '"Petite"', ''),
+					array('16.09.2013', '"Petite"', ''),
+					array('28.09.2013', '"Grande"', ''),
+					array('14.10.2013', '"Petite"', ''),
+					array('16.11.2013', '"Grande"', ''),
+					array('18.11.2013', '"Petite"', ''),
+					array('13.12.2013', '"Petite"', ''),
+					array('14.12.2013', '"Grande"', '')
 					/*array('22.09.2012', '"Knigge f&uuml;r Kids"', 'Gasthof Hohly L&ouml;wenstein'),*/
 					/*array('29.09.2012', '"Knigge f&uuml;r Jugendliche"', 'Ratskeller Heilbronn'),*/
 					/*array('06.10.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
@@ -243,19 +248,29 @@
 
 				<table cellpadding="3" cellspacing="0">
 					<tr>
-						<!--<td style="padding-right: 20px;">
-							16.-24.07.2012 in Peking (China)
+						<td style="padding-right: 20px;">
+                            07./08. August 2013 in Peking
+						</td>
+					</tr>
+                    <tr>
+						<td style="padding-right: 20px;">
+                            10./11. August 2013 in Peking
+						</td>
+					</tr>
+                    <tr>
+						<td style="padding-right: 20px;">
+                            13./14. August 2013 in Peking
 						</td>
 					</tr>
 					<tr>
 						<td style="padding-right: 20px;">
-							06.-14.08.2012 in Peking (China)
-						</td>-->
-						<td colspan="2" style="padding-right: 20px;">
-							Termine 2013 werden noch bekannt gegeben.
+                            16./17. August 2013 in Shanghai
 						</td>
-					</tr>
-				</table>
+                        <!--<td colspan="2" style="padding-right: 20px;">
+                            Termine 2013 werden noch bekannt gegeben.
+                        </td>-->
+                    </tr>
+                </table>
 
                 <br />
 

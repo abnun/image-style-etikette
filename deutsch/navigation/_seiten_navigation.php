@@ -132,7 +132,7 @@
 					<img src="../../images/gutschein/birgit-brenner-knigge-gutschein.gif" alt="Gutschein" style="position: relative; border: none;" />
 				</a>
 			</dd>
-		</dl>-->
+		</dl>
 
 		<dl>
 			<dd class="last">
@@ -145,13 +145,12 @@
 					<p style="font-size: 9pt; margin-bottom: 0px;">
 						* Seminar "Grande" am <b>8.6.2013</b>.
 					</p>
-                    <!--<p style="font-size: x-small; margin-bottom: 0px;">
-                        <a href="/deutsch/kontakt.php">Buchen</a> Sie das Seminar bis zum 17.05.
-                        und zahlen Sie nur 159.- &euro; statt 179.- &euro;!
-                    </p>-->
+                    <p style="font-size: x-small; margin-bottom: 0px;">
+                        <a href="/deutsch/kontakt.php">Buchen</a> Sie jetzt noch!
+                    </p>
 				</div>
 			</dd>
-		</dl>
+		</dl>-->
 
 		<dl>
 			<dd class="last">
