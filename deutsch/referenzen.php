@@ -66,23 +66,28 @@
 					</tr>
 					<tr>
 						<td align="center" valign="middle"><img src="../images/referenzen/raiffeisenbankkleinwalsertal.jpg" alt="" /></td>
-						<td align="center" valign="middle"><img src="../images/referenzen/bundesagenturarbeit.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/rewe.jpg" alt="" /></td>
 						<td align="center" valign="middle"><img src="../images/referenzen/lufthansacitycenterservice.jpg" alt="" /></td>
 					</tr>
 					<tr>
 						<td align="center" valign="middle"><img src="../images/referenzen/vrbankschwaebischhall.jpg" alt="" /></td>
-						<td align="center" valign="middle"><img src="../images/referenzen/wjhn.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/thyssenkrupp.jpg" alt="" /></td>
 						<td align="center" valign="middle"><img src="../images/referenzen/kaufland.jpg" alt="" /></td>
 					</tr>
 					<tr>
-						<td align="center" valign="middle"><img src="../images/referenzen/peag.jpg" alt="" /></td>
+						<td align="center" valign="middle"><img src="../images/referenzen/wjhn.jpg" alt="" /></td>
 						<td align="center" valign="middle"><img src="../images/referenzen/guterrat.jpg" alt="" /></td>
 						<td align="center" valign="middle"><img src="../images/referenzen/cornelsen.jpg" alt="" /></td>
 					</tr>
+                    <tr>
+                        <td align="center" valign="middle"><img src="../images/referenzen/sparkassewestfalenlippe.jpg" alt="" /></td>
+                        <td align="center" valign="middle"><img src="../images/referenzen/bundesagenturarbeit.jpg" alt="" /></td>
+                        <td align="center" valign="middle"><img src="../images/referenzen/sparkasseheilbronn.jpg" alt="" /></td>
+                    </tr>
 					<tr>
-						<td align="center" valign="middle" colspan="3"><img src="../images/referenzen/sparkassewestfalenlippe.jpg" alt="" style="margin-right: 50px;" /><img src="../images/referenzen/sparkasseheilbronn.jpg" alt="" /></td>
-<!--						<td align="center" valign="middle"></td>-->
-<!--						<td align="center" valign="middle"></td>-->
+						<td align="center" valign="middle"><img src="../images/referenzen/peag.jpg" alt=""/></td>
+						<td align="center" valign="middle">&nbsp;</td>
+						<td align="center" valign="middle">&nbsp;</td>
 					</tr>
 				</tbody>
 			</table>
