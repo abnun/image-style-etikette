@@ -79,7 +79,7 @@ pre {
 }
 
 blockquote {
-	margin: 15px 10px;
+	margin: 15px 0px;
     padding: 5px 5px 5px 35px;
   	background: #FAFAFA url(../images/icons/quote.gif) no-repeat 3px 5px;
 	/*border: 1px solid #eee;*/
@@ -463,8 +463,11 @@ body {
     padding: 1px 0px 1px 5px;
 }
 
-#content li.unterpunkt1 a {
+#content li.unterpunkt1 a,
+#content li.unterpunkt1 a h2 {
     font-size: 1.1em;
+	font-weight: bold;
+	display: inline;
 }
 
 #content li.unterpunkt1 div.text {
@@ -473,14 +476,18 @@ body {
 }
 
 #content li.unterpunkt1 a:link,
-#content li.unterpunkt1 a:visited {
+#content li.unterpunkt1 a:visited,
+#content li.unterpunkt1 a:link h2,
+#content li.unterpunkt1 a:visited h2 {
     /*color:#7c87a3;*/
     color: white;
 
 }
 
 #content li.unterpunkt1 a:hover,
-#content li.unterpunkt1 a:active {
+#content li.unterpunkt1 a:active,
+#content li.unterpunkt1 a:hover h2,
+#content li.unterpunkt1 a:active h2 {
     text-decoration: underline;
 }
 
@@ -493,18 +500,25 @@ body {
     padding: 1px 0px 1px 5px;
 }
 
-#content li.unterpunkt2 a {
+#content li.unterpunkt2 a,
+#content li.unterpunkt2 a h2 {
     font-size: 1.1em;
+	font-weight: bold;
+	display: inline;
 }
 
 #content li.unterpunkt2 a:link,
-#content li.unterpunkt2 a:visited {
+#content li.unterpunkt2 a:visited,
+#content li.unterpunkt2 a:link h2,
+#content li.unterpunkt2 a:visited h2 {
     /*color:#7ca383;*/
     color: #67594E;
 }
 
 #content li.unterpunkt2 a:active,
-#content li.unterpunkt2 a:hover {
+#content li.unterpunkt2 a:hover,
+#content li.unterpunkt2 a:hover h2,
+#content li.unterpunkt2 a:active h2 {
     text-decoration: underline;
 }
 
