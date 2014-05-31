@@ -113,7 +113,8 @@
                 <li class="unterpunkt1" title="Business Etikette">
                     <div class="text" style="text-align: left; float:left;">
                         <a id="unterpunkt1Link" href="#this">
-                            Business Etikette
+                            <h2>Business Etikette</h2>
+							<span style="font-size: xx-small;">&nbsp;(mehr ...)</span>
                         </a>
                     </div>
                     <div style="text-align: right;">
@@ -218,7 +219,8 @@
                 <li class="unterpunkt2" title="Interkulturelle Kommunikation">
                     <div class="text" style="text-align: left; float:left;">
                         <a id="unterpunkt2Link" href="#this">
-                            Interkulturelle Kommunikation
+							<h2>Interkulturelle Kommunikation</h2>
+							<span style="font-size: xx-small;">&nbsp;(mehr ...)</span>
                         </a>
                     </div>
                     <div style="text-align: right;">

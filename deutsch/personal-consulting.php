@@ -113,7 +113,8 @@
                 <li class="unterpunkt1" title="Personal Shopping">
                     <div class="text" style="text-align: left; float:left;">
                         <a id="unterpunkt1Link" href="#this">
-                            Personal Shopping
+							<h2>Personal Shopping</h2>
+							<span style="font-size: xx-small;">&nbsp;(mehr ...)</span>
                         </a>
                     </div>
                     <div style="text-align: right;">
@@ -201,7 +202,8 @@
                 <li class="unterpunkt2" title="Garderoben Check">
                     <div class="text" style="text-align: left; float:left;">
                         <a id="unterpunkt2Link" href="#this">
-                            Garderoben Check
+							<h2>Garderoben Check</h2>
+							<span style="font-size: xx-small;">&nbsp;(mehr ...)</span>
                         </a>
                     </div>
                     <div style="text-align: right;">
