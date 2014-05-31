@@ -184,6 +184,7 @@
 				<br />
                 <table cellpadding="3" cellspacing="0">
                     <?php
+                        date_default_timezone_set('UTC');
 						$termine = array(
 					array('06.07.2013', '"Grande"', ''),
 					array('08.07.2013', '"Petite"', ''),
@@ -193,7 +194,17 @@
 					array('16.11.2013', '"Grande"', ''),
 					array('18.11.2013', '"Petite"', ''),
 					array('13.12.2013', '"Petite"', ''),
-					array('14.12.2013', '"Grande"', '')
+					array('14.12.2013', '"Grande"', ''),
+
+                    array('09.01.2014', '"Petite"', ''),
+					array('11.01.2014', '"Grande"', ''),
+					array('15.03.2014', '"Grande"', ''),
+					array('17.03.2014', '"Petite"', ''),
+					array('19.05.2014', '"Petite"', ''),
+					array('24.05.2014', '"Grande"', ''),
+					array('28.06.2014', '"Grande"', ''),
+					array('30.06.2014', '"Petite"', '')
+
 					/*array('22.09.2012', '"Knigge f&uuml;r Kids"', 'Gasthof Hohly L&ouml;wenstein'),*/
 					/*array('29.09.2012', '"Knigge f&uuml;r Jugendliche"', 'Ratskeller Heilbronn'),*/
 					/*array('06.10.2012', '"Grande"', 'Gasthof Hohly L&ouml;wenstein'),
@@ -215,14 +226,22 @@
 
 						for($count = 0; $count <= count($termine); $count++)
 						{
-							$now = date("m.d.Y");
-							$termin_datum_check = date("m.d.Y", strtotime($termine[$count][0]));
+							$now = time();//date("d.m.Y");
+							//$termin_datum_check = date("d.m.Y", strtotime($termine[$count][0]));
+
+                            $dateVar = $termine[$count][0];
+
+                            $day   = substr($dateVar,0,2);
+                            $month = substr($dateVar,3,2);
+                            $year  = substr($dateVar,6,4);
+
+                            $termin_datum_check = mktime(0,0,0, $month, $day, $year);
 
 							$termin_datum = $termine[$count][0];
 							$termin_typ = $termine[$count][1];
 							$termin_ort = $termine[$count][2];
 
-							if($now < $termin_datum_check)
+							if($termin_datum_check > $now)
 							{
 								include("verschiedenes/_termin.php");
 							}
@@ -233,7 +252,7 @@
                 <br />
 
 				<h2 class="ueberschrift2">
-					Jetzt auch in China (Peking)!
+					Jetzt auch in China (Peking/Shanghai)!
 					<br />
 					<span style="font-size: 10px;">
 						 - In Zusammenarbeit mit der "Knigge Akademie China" -
@@ -241,7 +260,7 @@
 				</h2>
 
 				<br />
-				<b>"Knigge f&uuml;r Kids"</b> und
+				<b>"Western Business Etiquette"</b> und
 				<b>"Personal Image Consulting"</b>
 				<br />
 				<h2 class="ueberschrift2">Termine:</h2>
@@ -249,27 +268,27 @@
 				<table cellpadding="3" cellspacing="0">
 					<tr>
 						<td style="padding-right: 20px;">
-                            07./08. August 2013 in Peking
+                            23. - 28. April 2014 in Peking/Shanghai
 						</td>
 					</tr>
                     <tr>
 						<td style="padding-right: 20px;">
-                            10./11. August 2013 in Peking
+                            11. - 16. Juni 2014 in Peking/Shanghai
 						</td>
 					</tr>
-                    <tr>
-						<td style="padding-right: 20px;">
-                            13./14. August 2013 in Peking
-						</td>
-					</tr>
-					<tr>
-						<td style="padding-right: 20px;">
-                            16./17. August 2013 in Shanghai
-						</td>
-                        <!--<td colspan="2" style="padding-right: 20px;">
-                            Termine 2013 werden noch bekannt gegeben.
-                        </td>-->
-                    </tr>
+                    <!-- <tr>
+                         <td style="padding-right: 20px;">
+                             13./14. August 2013 in Peking
+                         </td>
+                     </tr>
+                     <tr>
+                         <td style="padding-right: 20px;">
+                         16./17. August 2013 in Shanghai
+                         </td>
+                         <!--<td colspan="2" style="padding-right: 20px;">
+                             Termine 2013 werden noch bekannt gegeben.
+                         </td>
+                    </tr>-->
                 </table>
 
                 <br />
