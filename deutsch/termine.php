@@ -203,7 +203,18 @@
 					array('19.05.2014', '"Petite"', ''),
 					array('24.05.2014', '"Grande"', ''),
 					array('28.06.2014', '"Grande"', ''),
-					array('30.06.2014', '"Petite"', '')
+					array('30.06.2014', '"Petite"', ''),
+					array('26.07.2014', '"Grande"', ''),
+					array('04.08.2014', '"Petite"', ''),
+					array('06.09.2014', '"Grande"', ''),
+                    array('08.09.2014', '"Petite"', ''),
+					array('27.09.2014', '"Grande"', ''),
+					array('29.09.2014', '"Petite"', ''),
+					array('20.10.2014', '"Petite"', ''),
+					array('25.10.2014', '"Grande"', ''),
+					array('10.11.2014', '"Petite"', ''),
+					array('01.12.2014', '"Petite"', ''),
+					array('13.12.2014', '"Grande"', '')
 
 					/*array('22.09.2012', '"Knigge f&uuml;r Kids"', 'Gasthof Hohly L&ouml;wenstein'),*/
 					/*array('29.09.2012', '"Knigge f&uuml;r Jugendliche"', 'Ratskeller Heilbronn'),*/
