@@ -214,7 +214,18 @@
 					array('25.10.2014', '"Grande"', ''),
 					array('10.11.2014', '"Petite"', ''),
 					array('01.12.2014', '"Petite"', ''),
-					array('13.12.2014', '"Grande"', '')
+					array('13.12.2014', '"Grande"', ''),
+
+                    array('28.02.2015', '"Grande"', ''),
+                    array('04.03.2015', '"Petite"', ''),
+                    array('18.04.2015', '"Grande"', ''),
+                    array('27.04.2015', '"Petite"', ''),
+                    array('09.05.2015', '"Grande"', ''),
+                    array('11.05.2015', '"Petite"', ''),
+                    array('24.06.2015', '"Petite"', ''),
+                    array('27.06.2015', '"Grande"', ''),
+                    array('13.07.2015', '"Petite"', ''),
+                    array('18.07.2015', '"Grande"', '')
 
 					/*array('22.09.2012', '"Knigge f&uuml;r Kids"', 'Gasthof Hohly L&ouml;wenstein'),*/
 					/*array('29.09.2012', '"Knigge f&uuml;r Jugendliche"', 'Ratskeller Heilbronn'),*/
@@ -279,12 +290,12 @@
 				<table cellpadding="3" cellspacing="0">
 					<tr>
 						<td style="padding-right: 20px;">
-                            23. - 28. April 2014 in Peking/Shanghai
+                            26. Mai bis 3. Juni 2015 in Peking/Shanghai
 						</td>
 					</tr>
                     <tr>
 						<td style="padding-right: 20px;">
-                            11. - 16. Juni 2014 in Peking/Shanghai
+                            8. - 19. Juni 2015 in Peking/Shanghai
 						</td>
 					</tr>
                     <!-- <tr>
