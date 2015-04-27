@@ -225,7 +225,13 @@
                     array('24.06.2015', '"Petite"', ''),
                     array('27.06.2015', '"Grande"', ''),
                     array('13.07.2015', '"Petite"', ''),
-                    array('18.07.2015', '"Grande"', '')
+                    array('18.07.2015', '"Grande"', ''),
+                    array('19.09.2015', '"Grande"'),
+                    array('21.09.2015', '"Petite"'),
+                    array('17.10.2015', '"Grande"'),
+                    array('19.10.2015', '"Petite"'),
+                    array('28.11.2015', '"Grande"'),
+                    array('30.11.2015', '"Petite"')
 
 					/*array('22.09.2012', '"Knigge f&uuml;r Kids"', 'Gasthof Hohly L&ouml;wenstein'),*/
 					/*array('29.09.2012', '"Knigge f&uuml;r Jugendliche"', 'Ratskeller Heilbronn'),*/
@@ -290,20 +296,20 @@
 				<table cellpadding="3" cellspacing="0">
 					<tr>
 						<td style="padding-right: 20px;">
-                            26. Mai bis 3. Juni 2015 in Peking/Shanghai
+                            26.05. - 03.06.2015 in Peking/Shanghai
 						</td>
 					</tr>
                     <tr>
 						<td style="padding-right: 20px;">
-                            8. - 19. Juni 2015 in Peking/Shanghai
+                            08.06. - 19.06.2015 in Peking/Shanghai
+						</td>
+					</tr>
+                    <tr>
+						<td style="padding-right: 20px;">
+                            02.11. - 09.11.2015 in Peking/Shanghai
 						</td>
 					</tr>
                     <!-- <tr>
-                         <td style="padding-right: 20px;">
-                             13./14. August 2013 in Peking
-                         </td>
-                     </tr>
-                     <tr>
                          <td style="padding-right: 20px;">
                          16./17. August 2013 in Shanghai
                          </td>
