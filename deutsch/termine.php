@@ -231,7 +231,19 @@
                     array('17.10.2015', '"Grande"'),
                     array('19.10.2015', '"Petite"'),
                     array('28.11.2015', '"Grande"'),
-                    array('30.11.2015', '"Petite"')
+                    array('30.11.2015', '"Petite"'),
+
+                    array('12.03.2016', 'Grande"'),
+                    array('14.03.2016', 'Petite"'),
+                    array('16.04.2016', 'Grande"'),
+                    array('18.04.2016', 'Petite"'),
+                    array('07.05.2016', 'Grande"'),
+                    array('09.05.2016', 'Petite"'),
+                    array('18.06.2016', 'Grande"'),
+                    array('20.06.2016', 'Petite"'),
+                    array('16.07.2016', 'Grande"'),
+                    array('18.07.2016', 'Petite"')
+
 
 					/*array('22.09.2012', '"Knigge f&uuml;r Kids"', 'Gasthof Hohly L&ouml;wenstein'),*/
 					/*array('29.09.2012', '"Knigge f&uuml;r Jugendliche"', 'Ratskeller Heilbronn'),*/
