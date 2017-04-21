@@ -233,16 +233,37 @@
                     array('28.11.2015', '"Grande"'),
                     array('30.11.2015', '"Petite"'),
 
-                    array('12.03.2016', 'Grande"'),
-                    array('14.03.2016', 'Petite"'),
-                    array('16.04.2016', 'Grande"'),
-                    array('18.04.2016', 'Petite"'),
-                    array('07.05.2016', 'Grande"'),
-                    array('09.05.2016', 'Petite"'),
-                    array('18.06.2016', 'Grande"'),
-                    array('20.06.2016', 'Petite"'),
-                    array('16.07.2016', 'Grande"'),
-                    array('18.07.2016', 'Petite"')
+                    array('12.03.2016', '"Grande"'),
+                    array('14.03.2016', '"Petite"'),
+                    array('16.04.2016', '"Grande"'),
+                    array('18.04.2016', '"Petite"'),
+                    array('07.05.2016', '"Grande"'),
+                    array('09.05.2016', '"Petite"'),
+                    array('18.06.2016', '"Grande"'),
+                    array('20.06.2016', '"Petite"'),
+                    array('16.07.2016', '"Grande"'),
+                    array('18.07.2016', '"Petite"'),
+
+                    array('10.09.2016', '"Grande"'),
+                    array('12.09.2016', '"Petite"'),
+                    array('08.10.2016', '"Grande"'),
+                    array('13.10.2016', '"Petite"'),
+                    array('19.11.2016', '"Grande"'),
+                    array('21.11.2016', '"Petite"'),
+                    array('12.12.2016', '"Petite"'),
+                    array('17.12.2016', '"Grande"'),
+
+                    array('18.02.2017', '"Grande"'),
+                    array('20.02.2017', '"Petite"'),
+                    array('27.03.2017', '"Petite"'),
+                    array('01.04.2017', '"Grande"'),
+                    array('06.05.2017', '"Grande"'),
+                    array('08.05.2017', '"Petite"'),
+                    array('24.06.2017', '"Grande"'),
+                    array('26.06.2017', '"Petite"'),
+
+
+
 
 
 					/*array('22.09.2012', '"Knigge f&uuml;r Kids"', 'Gasthof Hohly L&ouml;wenstein'),*/
@@ -308,20 +329,20 @@
 				<table cellpadding="3" cellspacing="0">
 					<tr>
 						<td style="padding-right: 20px;">
-                            26.05. - 03.06.2015 in Peking/Shanghai
+                            17.05. - 27.05 2016 in Peking/Shanghai
 						</td>
 					</tr>
                     <tr>
 						<td style="padding-right: 20px;">
-                            08.06. - 19.06.2015 in Peking/Shanghai
+                            31.10. - 11.11.2016 in Peking/Shanghai
 						</td>
 					</tr>
-                    <tr>
+                    <!--<tr>
 						<td style="padding-right: 20px;">
                             02.11. - 09.11.2015 in Peking/Shanghai
 						</td>
 					</tr>
-                    <!-- <tr>
+                     <tr>
                          <td style="padding-right: 20px;">
                          16./17. August 2013 in Shanghai
                          </td>

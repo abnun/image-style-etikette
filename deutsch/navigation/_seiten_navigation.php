@@ -40,6 +40,18 @@
                 </div>
             </dd>
 
+            <dd>
+
+                <div>
+                    <ul>
+                        <li>
+                            <a href="/deutsch/azubi-knigge.php" class="<?php $link == 'azubi-knigge.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Azubi-Knigge | Knigge f&uuml;r Auszubildende | Knigge f&uuml;r Berufseinsteiger">Azubi-Knigge</a>
+                        </li>
+                    </ul>
+
+                </div>
+            </dd>
+
 			<dd>
 
                 <div>
@@ -110,17 +122,17 @@
 
 				</div>
 			</dd>
-            <dd>
+            <!--<dd>
 
                 <div>
                     <ul>
                         <li>
-                            <a href="/deutsch/downloads.php" class="<?php $link == 'downloads.php' ? print 'active' : print ''; ?>" title="Birgit Brenner | Downloads">Downloads</a>
+                            <a href="/deutsch/downloads.php" class="<?php /*$link == 'downloads.php' ? print 'active' : print ''; */?>" title="Birgit Brenner | Downloads">Downloads</a>
                         </li>
                     </ul>
 
                 </div>
-            </dd>
+            </dd>-->
         </dl>
 
 		<!--<dl>

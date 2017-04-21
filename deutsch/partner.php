@@ -55,7 +55,7 @@
         		<br/>
                 <br/>
                 <br/>
-                <a href="http://www.gasthof-hohly.de" target="_blank"> <img src="../images/partner/Gasthof%20Hohly.gif" border="0" alt="Gasthof Hohly"/></a>
+                <a href="http://www.gasthof-hohly.de" target="_blank"> <img src="../images/partner/Gasthof%20Hohly.png" border="0" width="175" alt="Gasthof Hohly"/></a>
 				<br/>
                 <br/>
                 <br/>

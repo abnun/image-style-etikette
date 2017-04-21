@@ -50,8 +50,16 @@
 				<img src="../images/presse/hn-stimme_kinder-knigge_04-2012_klein.jpg" alt="Birgit Brenner | Artikel in der Heilbronner Stimme zum Thema 'Kinder-Knigge' vom April 2012" title="Klicken Sie hier, um eine vergr&ouml;&szlig;erte Ansicht des Bildes zu bekommen"/>
 			</a>
 			<div id="closebutton" class="highslide-overlay closebutton" style="display:none;" onclick="return hs.close(this)" title="Schlie&szlig;en"></div>
-			<p>
-			</p>
+			<br/>
+			<div>
+				<a href="../downloads/kinder-knigge_HST_0412.pdf" target="_blank"
+				   title="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Artikel in der Heilbronner Stimme zum Thema Kinder-Knigge vom April 2012">
+					<img src="../images/icons/pdf_icon.gif" alt="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Artikel in der Heilbronner Stimme zum Thema 'Kinder-Knigge' vom April 2012" title="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Knigge Training | Business Etikette | Artikel in der Heilbronner Stimme zum Thema 'Kinder-Knigge' vom April 2012" border="0"/>
+					Artikel in der Heilbronner Stimme vom April 2012
+				</a>
+
+			</div>
+			<br/>
 			<br/>
 
 			<b>Artikel auf DerBerater.de</b>
@@ -174,8 +182,16 @@
 				<img src="../images/presse/hn-stimme_17_02_2009_klein.jpg" alt="Birgit Brenner | Artikel in der Heilbronner Stimme vom 17.02.2009" title="Klicken Sie hier, um eine vergr&ouml;&szlig;erte Ansicht des Bildes zu bekommen"/>
 			</a>
 			<div id="closebutton" class="highslide-overlay closebutton" style="display:none;" onclick="return hs.close(this)" title="Schlie&szlig;en"></div>
-			<p>
-			</p>
+			<br/>
+			<div>
+				<a href="../downloads/knigge_HST_170209.pdf" target="_blank"
+				   title="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Artikel in der Heilbronner Stimme vom 17.02.2009">
+					<img src="../images/icons/pdf_icon.gif" alt="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Artikel in der Heilbronner Stimme vom 17.02.2009" title="Birgit Brenner | Image. Style. Etikette | Knigge Training | Business Etikette | Knigge Training | Business Etikette | Artikel in der Heilbronner Stimme vom 17.02.2009" border="0"/>
+					Artikel in der Heilbronner Stimme vom 17.02.2009
+				</a>
+
+			</div>
+			<br/>
 			<br/>
 
 
